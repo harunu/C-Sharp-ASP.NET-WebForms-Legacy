@@ -1,0 +1,7 @@
+C:\Documents and Settings\Syed\Desktop\XMLReader\XMLReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Syed\Desktop\XMLReader\XMLReader\bin\Debug\XMLReader.exe
+C:\Documents and Settings\Syed\Desktop\XMLReader\XMLReader\bin\Debug\XMLReader.pdb
+C:\Documents and Settings\Syed\Desktop\XMLReader\XMLReader\obj\Debug\XMLReader.exe
+C:\Documents and Settings\Syed\Desktop\XMLReader\XMLReader\obj\Debug\XMLReader.pdb
+G:\Companies\ASIS\CODE\Full Codes & E-Books\Codes\CSharp_XMLReader\XMLReader\obj\Debug\XMLReader.exe
+G:\Companies\ASIS\CODE\Full Codes & E-Books\Codes\CSharp_XMLReader\XMLReader\obj\Debug\XMLReader.pdb
