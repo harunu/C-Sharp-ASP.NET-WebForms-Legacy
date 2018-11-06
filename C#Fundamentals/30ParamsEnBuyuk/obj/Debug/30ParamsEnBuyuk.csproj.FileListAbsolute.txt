@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\30ParamsEnBuyuk\bin\Debug\30ParamsEnBuyuk.exe.config
+C:\Users\Harun\source\repos\MCPD\30ParamsEnBuyuk\bin\Debug\30ParamsEnBuyuk.exe
+C:\Users\Harun\source\repos\MCPD\30ParamsEnBuyuk\bin\Debug\30ParamsEnBuyuk.pdb
+C:\Users\Harun\source\repos\MCPD\30ParamsEnBuyuk\obj\Debug\30ParamsEnBuyuk.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\30ParamsEnBuyuk\obj\Debug\30ParamsEnBuyuk.exe
+C:\Users\Harun\source\repos\MCPD\30ParamsEnBuyuk\obj\Debug\30ParamsEnBuyuk.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\30ParamsEnBuyuk\bin\Debug\30ParamsEnBuyuk.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\30ParamsEnBuyuk\bin\Debug\30ParamsEnBuyuk.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\30ParamsEnBuyuk\bin\Debug\30ParamsEnBuyuk.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\30ParamsEnBuyuk\obj\Debug\30ParamsEnBuyuk.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\30ParamsEnBuyuk\obj\Debug\30ParamsEnBuyuk.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\30ParamsEnBuyuk\obj\Debug\30ParamsEnBuyuk.pdb

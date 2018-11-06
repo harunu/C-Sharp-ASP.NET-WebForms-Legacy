@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\56CustomException\bin\Debug\56CustomException.exe.config
+C:\Users\Harun\source\repos\MCPD\56CustomException\bin\Debug\56CustomException.exe
+C:\Users\Harun\source\repos\MCPD\56CustomException\bin\Debug\56CustomException.pdb
+C:\Users\Harun\source\repos\MCPD\56CustomException\obj\Debug\56CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\56CustomException\obj\Debug\56CustomException.exe
+C:\Users\Harun\source\repos\MCPD\56CustomException\obj\Debug\56CustomException.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\56CustomException\bin\Debug\56CustomException.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\56CustomException\bin\Debug\56CustomException.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\56CustomException\bin\Debug\56CustomException.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\56CustomException\obj\Debug\56CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\56CustomException\obj\Debug\56CustomException.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\56CustomException\obj\Debug\56CustomException.pdb

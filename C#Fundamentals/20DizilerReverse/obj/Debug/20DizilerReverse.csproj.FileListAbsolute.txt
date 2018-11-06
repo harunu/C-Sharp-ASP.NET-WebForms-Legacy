@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\20DizilerReverse\bin\Debug\20DizilerReverse.exe.config
+C:\Users\Harun\source\repos\MCPD\20DizilerReverse\bin\Debug\20DizilerReverse.exe
+C:\Users\Harun\source\repos\MCPD\20DizilerReverse\bin\Debug\20DizilerReverse.pdb
+C:\Users\Harun\source\repos\MCPD\20DizilerReverse\obj\Debug\20DizilerReverse.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\20DizilerReverse\obj\Debug\20DizilerReverse.exe
+C:\Users\Harun\source\repos\MCPD\20DizilerReverse\obj\Debug\20DizilerReverse.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\20DizilerReverse\bin\Debug\20DizilerReverse.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\20DizilerReverse\bin\Debug\20DizilerReverse.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\20DizilerReverse\bin\Debug\20DizilerReverse.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\20DizilerReverse\obj\Debug\20DizilerReverse.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\20DizilerReverse\obj\Debug\20DizilerReverse.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\20DizilerReverse\obj\Debug\20DizilerReverse.pdb

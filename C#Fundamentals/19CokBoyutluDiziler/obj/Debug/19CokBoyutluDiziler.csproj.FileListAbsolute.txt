@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\19CokBoyutluDiziler\bin\Debug\19CokBoyutluDiziler.exe.config
+C:\Users\Harun\source\repos\MCPD\19CokBoyutluDiziler\bin\Debug\19CokBoyutluDiziler.exe
+C:\Users\Harun\source\repos\MCPD\19CokBoyutluDiziler\bin\Debug\19CokBoyutluDiziler.pdb
+C:\Users\Harun\source\repos\MCPD\19CokBoyutluDiziler\obj\Debug\19CokBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\19CokBoyutluDiziler\obj\Debug\19CokBoyutluDiziler.exe
+C:\Users\Harun\source\repos\MCPD\19CokBoyutluDiziler\obj\Debug\19CokBoyutluDiziler.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\19CokBoyutluDiziler\bin\Debug\19CokBoyutluDiziler.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\19CokBoyutluDiziler\bin\Debug\19CokBoyutluDiziler.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\19CokBoyutluDiziler\bin\Debug\19CokBoyutluDiziler.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\19CokBoyutluDiziler\obj\Debug\19CokBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\19CokBoyutluDiziler\obj\Debug\19CokBoyutluDiziler.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\19CokBoyutluDiziler\obj\Debug\19CokBoyutluDiziler.pdb

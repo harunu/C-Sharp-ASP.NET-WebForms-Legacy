@@ -1,0 +1,14 @@
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\bin\Debug\KosulYapilari.exe.config
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\bin\Debug\KosulYapilari.exe
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\bin\Debug\KosulYapilari.pdb
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\obj\Debug\04KosulYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\obj\Debug\KosulYapilari.exe
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\obj\Debug\KosulYapilari.pdb
+C:\Users\Harun\source\repos\MCPD\KosulYapilari\obj\Debug\04KosulYapilari.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\bin\Debug\KosulYapilari.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\bin\Debug\KosulYapilari.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\bin\Debug\KosulYapilari.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\obj\Debug\04KosulYapilari.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\obj\Debug\04KosulYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\obj\Debug\KosulYapilari.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\KosulYapilari\obj\Debug\KosulYapilari.pdb

@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\13For10Sayi\bin\Debug\13For10Sayi.exe.config
+C:\Users\Harun\source\repos\MCPD\13For10Sayi\bin\Debug\13For10Sayi.exe
+C:\Users\Harun\source\repos\MCPD\13For10Sayi\bin\Debug\13For10Sayi.pdb
+C:\Users\Harun\source\repos\MCPD\13For10Sayi\obj\Debug\13For10Sayi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\13For10Sayi\obj\Debug\13For10Sayi.exe
+C:\Users\Harun\source\repos\MCPD\13For10Sayi\obj\Debug\13For10Sayi.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\13For10Sayi\bin\Debug\13For10Sayi.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\13For10Sayi\bin\Debug\13For10Sayi.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\13For10Sayi\bin\Debug\13For10Sayi.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\13For10Sayi\obj\Debug\13For10Sayi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\13For10Sayi\obj\Debug\13For10Sayi.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\13For10Sayi\obj\Debug\13For10Sayi.pdb

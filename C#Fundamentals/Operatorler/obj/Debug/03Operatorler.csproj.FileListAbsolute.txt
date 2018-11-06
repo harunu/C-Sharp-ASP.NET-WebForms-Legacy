@@ -1,0 +1,14 @@
+C:\Users\Harun\source\repos\MCPD\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\Harun\source\repos\MCPD\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\Harun\source\repos\MCPD\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\03Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\Operatorler.pdb
+C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\03Operatorler.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\obj\Debug\03Operatorler.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\obj\Debug\03Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\Operatorler\obj\Debug\Operatorler.pdb

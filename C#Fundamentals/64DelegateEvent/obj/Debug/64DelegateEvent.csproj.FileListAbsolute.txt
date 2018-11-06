@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\64DelegateEvent\bin\Debug\64DelegateEvent.exe.config
+C:\Users\Harun\source\repos\MCPD\64DelegateEvent\bin\Debug\64DelegateEvent.exe
+C:\Users\Harun\source\repos\MCPD\64DelegateEvent\bin\Debug\64DelegateEvent.pdb
+C:\Users\Harun\source\repos\MCPD\64DelegateEvent\obj\Debug\64DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\64DelegateEvent\obj\Debug\64DelegateEvent.exe
+C:\Users\Harun\source\repos\MCPD\64DelegateEvent\obj\Debug\64DelegateEvent.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\64DelegateEvent\bin\Debug\64DelegateEvent.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\64DelegateEvent\bin\Debug\64DelegateEvent.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\64DelegateEvent\bin\Debug\64DelegateEvent.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\64DelegateEvent\obj\Debug\64DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\64DelegateEvent\obj\Debug\64DelegateEvent.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\64DelegateEvent\obj\Debug\64DelegateEvent.pdb

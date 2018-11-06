@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\39TelefonNoSinifi\bin\Debug\39TelefonNoSinifi.exe.config
+C:\Users\Harun\source\repos\MCPD\39TelefonNoSinifi\bin\Debug\39TelefonNoSinifi.exe
+C:\Users\Harun\source\repos\MCPD\39TelefonNoSinifi\bin\Debug\39TelefonNoSinifi.pdb
+C:\Users\Harun\source\repos\MCPD\39TelefonNoSinifi\obj\Debug\39TelefonNoSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\39TelefonNoSinifi\obj\Debug\39TelefonNoSinifi.exe
+C:\Users\Harun\source\repos\MCPD\39TelefonNoSinifi\obj\Debug\39TelefonNoSinifi.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\39TelefonNoSinifi\bin\Debug\39TelefonNoSinifi.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\39TelefonNoSinifi\bin\Debug\39TelefonNoSinifi.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\39TelefonNoSinifi\bin\Debug\39TelefonNoSinifi.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\39TelefonNoSinifi\obj\Debug\39TelefonNoSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\39TelefonNoSinifi\obj\Debug\39TelefonNoSinifi.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\39TelefonNoSinifi\obj\Debug\39TelefonNoSinifi.pdb

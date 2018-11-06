@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\22DiziSiralama\bin\Debug\22DiziSiralama.exe.config
+C:\Users\Harun\source\repos\MCPD\22DiziSiralama\bin\Debug\22DiziSiralama.exe
+C:\Users\Harun\source\repos\MCPD\22DiziSiralama\bin\Debug\22DiziSiralama.pdb
+C:\Users\Harun\source\repos\MCPD\22DiziSiralama\obj\Debug\22DiziSiralama.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\22DiziSiralama\obj\Debug\22DiziSiralama.exe
+C:\Users\Harun\source\repos\MCPD\22DiziSiralama\obj\Debug\22DiziSiralama.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\22DiziSiralama\bin\Debug\22DiziSiralama.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\22DiziSiralama\bin\Debug\22DiziSiralama.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\22DiziSiralama\bin\Debug\22DiziSiralama.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.pdb

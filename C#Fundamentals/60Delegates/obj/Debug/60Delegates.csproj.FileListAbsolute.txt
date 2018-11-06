@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\60Delegates\bin\Debug\60Delegates.exe.config
+C:\Users\Harun\source\repos\MCPD\60Delegates\bin\Debug\60Delegates.exe
+C:\Users\Harun\source\repos\MCPD\60Delegates\bin\Debug\60Delegates.pdb
+C:\Users\Harun\source\repos\MCPD\60Delegates\obj\Debug\60Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\60Delegates\obj\Debug\60Delegates.exe
+C:\Users\Harun\source\repos\MCPD\60Delegates\obj\Debug\60Delegates.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\60Delegates\bin\Debug\60Delegates.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\60Delegates\bin\Debug\60Delegates.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\60Delegates\bin\Debug\60Delegates.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\60Delegates\obj\Debug\60Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\60Delegates\obj\Debug\60Delegates.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\60Delegates\obj\Debug\60Delegates.pdb

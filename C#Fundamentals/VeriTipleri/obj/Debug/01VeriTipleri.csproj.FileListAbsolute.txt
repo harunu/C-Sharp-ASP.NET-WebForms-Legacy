@@ -1,0 +1,13 @@
+C:\Users\Harun\source\repos\MCPD\VeriTipleri\bin\Debug\01VeriTipleri.exe.config
+C:\Users\Harun\source\repos\MCPD\VeriTipleri\bin\Debug\01VeriTipleri.exe
+C:\Users\Harun\source\repos\MCPD\VeriTipleri\bin\Debug\01VeriTipleri.pdb
+C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\01VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\01VeriTipleri.exe
+C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\01VeriTipleri.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\bin\Debug\01VeriTipleri.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\bin\Debug\01VeriTipleri.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\bin\Debug\01VeriTipleri.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\obj\Debug\01VeriTipleri.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\obj\Debug\01VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\obj\Debug\01VeriTipleri.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\VeriTipleri\obj\Debug\01VeriTipleri.pdb

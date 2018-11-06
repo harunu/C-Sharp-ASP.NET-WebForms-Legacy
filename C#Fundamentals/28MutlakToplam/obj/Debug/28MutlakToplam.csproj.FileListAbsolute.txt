@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\28MutlakToplam\bin\Debug\28MutlakToplam.exe.config
+C:\Users\Harun\source\repos\MCPD\28MutlakToplam\bin\Debug\28MutlakToplam.exe
+C:\Users\Harun\source\repos\MCPD\28MutlakToplam\bin\Debug\28MutlakToplam.pdb
+C:\Users\Harun\source\repos\MCPD\28MutlakToplam\obj\Debug\28MutlakToplam.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\28MutlakToplam\obj\Debug\28MutlakToplam.exe
+C:\Users\Harun\source\repos\MCPD\28MutlakToplam\obj\Debug\28MutlakToplam.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\28MutlakToplam\bin\Debug\28MutlakToplam.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\28MutlakToplam\bin\Debug\28MutlakToplam.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\28MutlakToplam\bin\Debug\28MutlakToplam.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\28MutlakToplam\obj\Debug\28MutlakToplam.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\28MutlakToplam\obj\Debug\28MutlakToplam.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\28MutlakToplam\obj\Debug\28MutlakToplam.pdb

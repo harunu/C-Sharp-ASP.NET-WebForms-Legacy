@@ -1,0 +1,7 @@
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\bin\Debug\TurDonusumu.exe.config
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\bin\Debug\TurDonusumu.exe
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\bin\Debug\TurDonusumu.pdb
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\obj\Debug\TurDonusumu.csprojResolveAssemblyReference.cache
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\obj\Debug\TurDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\obj\Debug\TurDonusumu.exe
+C:\Users\Harun\source\repos\MCPD\TurDonusumu\obj\Debug\TurDonusumu.pdb

@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.exe.config
+C:\Users\Harun\source\repos\MCPD\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.exe
+C:\Users\Harun\source\repos\MCPD\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.pdb
+C:\Users\Harun\source\repos\MCPD\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.exe
+C:\Users\Harun\source\repos\MCPD\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.pdb

@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\17Baklava\bin\Debug\17Baklava.exe.config
+C:\Users\Harun\source\repos\MCPD\17Baklava\bin\Debug\17Baklava.exe
+C:\Users\Harun\source\repos\MCPD\17Baklava\bin\Debug\17Baklava.pdb
+C:\Users\Harun\source\repos\MCPD\17Baklava\obj\Debug\17Baklava.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\17Baklava\obj\Debug\17Baklava.exe
+C:\Users\Harun\source\repos\MCPD\17Baklava\obj\Debug\17Baklava.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\17Baklava\bin\Debug\17Baklava.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\17Baklava\bin\Debug\17Baklava.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\17Baklava\bin\Debug\17Baklava.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\17Baklava\obj\Debug\17Baklava.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\17Baklava\obj\Debug\17Baklava.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\17Baklava\obj\Debug\17Baklava.pdb

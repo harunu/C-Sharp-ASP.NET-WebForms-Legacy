@@ -1,0 +1,14 @@
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\bin\Debug\50RastgeleSayiPaketi.exe.config
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\bin\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\bin\Debug\50RastgeleSayiPaketi.pdb
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.pdb
+C:\Users\Harun\source\repos\MCPD\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\bin\Debug\50RastgeleSayiPaketi.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\bin\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\bin\Debug\50RastgeleSayiPaketi.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\50RastgeleSayiPaketi\obj\Debug\50RastgeleSayiPaketi.pdb

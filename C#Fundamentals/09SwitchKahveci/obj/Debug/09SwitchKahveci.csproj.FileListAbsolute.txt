@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\09SwitchKahveci\bin\Debug\09SwitchKahveci.exe.config
+C:\Users\Harun\source\repos\MCPD\09SwitchKahveci\bin\Debug\09SwitchKahveci.exe
+C:\Users\Harun\source\repos\MCPD\09SwitchKahveci\bin\Debug\09SwitchKahveci.pdb
+C:\Users\Harun\source\repos\MCPD\09SwitchKahveci\obj\Debug\09SwitchKahveci.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\09SwitchKahveci\obj\Debug\09SwitchKahveci.exe
+C:\Users\Harun\source\repos\MCPD\09SwitchKahveci\obj\Debug\09SwitchKahveci.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\09SwitchKahveci\bin\Debug\09SwitchKahveci.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\09SwitchKahveci\bin\Debug\09SwitchKahveci.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\09SwitchKahveci\bin\Debug\09SwitchKahveci.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\09SwitchKahveci\obj\Debug\09SwitchKahveci.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\09SwitchKahveci\obj\Debug\09SwitchKahveci.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\09SwitchKahveci\obj\Debug\09SwitchKahveci.pdb

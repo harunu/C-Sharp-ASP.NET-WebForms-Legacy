@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\45NamespaceUygulama\bin\Debug\45NamespaceUygulama.exe.config
+C:\Users\Harun\source\repos\MCPD\45NamespaceUygulama\bin\Debug\45NamespaceUygulama.exe
+C:\Users\Harun\source\repos\MCPD\45NamespaceUygulama\bin\Debug\45NamespaceUygulama.pdb
+C:\Users\Harun\source\repos\MCPD\45NamespaceUygulama\obj\Debug\45NamespaceUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\45NamespaceUygulama\obj\Debug\45NamespaceUygulama.exe
+C:\Users\Harun\source\repos\MCPD\45NamespaceUygulama\obj\Debug\45NamespaceUygulama.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\45NamespaceUygulama\bin\Debug\45NamespaceUygulama.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\45NamespaceUygulama\bin\Debug\45NamespaceUygulama.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\45NamespaceUygulama\bin\Debug\45NamespaceUygulama.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\45NamespaceUygulama\obj\Debug\45NamespaceUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\45NamespaceUygulama\obj\Debug\45NamespaceUygulama.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\45NamespaceUygulama\obj\Debug\45NamespaceUygulama.pdb

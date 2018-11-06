@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\42BilgisayarClass\bin\Debug\42BilgisayarClass.exe.config
+C:\Users\Harun\source\repos\MCPD\42BilgisayarClass\bin\Debug\42BilgisayarClass.exe
+C:\Users\Harun\source\repos\MCPD\42BilgisayarClass\bin\Debug\42BilgisayarClass.pdb
+C:\Users\Harun\source\repos\MCPD\42BilgisayarClass\obj\Debug\42BilgisayarClass.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\42BilgisayarClass\obj\Debug\42BilgisayarClass.exe
+C:\Users\Harun\source\repos\MCPD\42BilgisayarClass\obj\Debug\42BilgisayarClass.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\42BilgisayarClass\bin\Debug\42BilgisayarClass.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\42BilgisayarClass\bin\Debug\42BilgisayarClass.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\42BilgisayarClass\bin\Debug\42BilgisayarClass.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.pdb

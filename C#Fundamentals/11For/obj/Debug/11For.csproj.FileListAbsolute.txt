@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\MCPD\11For\bin\Debug\11For.exe.config
+C:\Users\Harun\source\repos\MCPD\11For\bin\Debug\11For.exe
+C:\Users\Harun\source\repos\MCPD\11For\bin\Debug\11For.pdb
+C:\Users\Harun\source\repos\MCPD\11For\obj\Debug\11For.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\MCPD\11For\obj\Debug\11For.exe
+C:\Users\Harun\source\repos\MCPD\11For\obj\Debug\11For.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\11For\bin\Debug\11For.exe.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\11For\bin\Debug\11For.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\11For\bin\Debug\11For.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\11For\obj\Debug\11For.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\11For\obj\Debug\11For.exe
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\C#Fundamentals\11For\obj\Debug\11For.pdb
