@@ -1,0 +1,32 @@
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\bin\AsisBayi.dll
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\bin\AsisBayi.pdb
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.dll
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.pdb
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\bin\sqlite.pdb
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\bin\System.Data.SQLite.pdb
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\AsisBayi\AsisBayi\bin\System.Data.SQLite.Linq.pdb
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\bin\AsisBayi.dll
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\bin\AsisBayi.pdb
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\bin\sqlite.pdb
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\bin\System.Data.SQLite.pdb
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\bin\System.Data.SQLite.Linq.pdb
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.csprojResolveAssemblyReference.cache
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.dll
+G:\Companies\ASIS\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.pdb
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\bin\AsisBayi.dll.config
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\bin\AsisBayi.dll
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\bin\AsisBayi.pdb
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.csproj.CopyComplete
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.dll
+C:\Users\Harun\source\repos\Projects\AsisBayi\AsisBayi\obj\Debug\AsisBayi.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\bin\AsisBayi.dll.config
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\bin\AsisBayi.dll
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\bin\AsisBayi.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\obj\Debug\AsisBayi.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\obj\Debug\AsisBayi.csproj.CopyComplete
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\obj\Debug\AsisBayi.dll
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\obj\Debug\AsisBayi.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\AsisBayi\obj\Debug\AsisBayi.csprojAssemblyReference.cache

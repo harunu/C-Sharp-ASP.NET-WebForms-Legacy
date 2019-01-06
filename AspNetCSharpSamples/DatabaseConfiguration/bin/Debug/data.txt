@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Veri xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <servername>199.6.64.86\sql2008</servername>
+  <username>sa</username>
+  <password>Asis2005Petech</password>
+</Veri>

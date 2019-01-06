@@ -1,0 +1,25 @@
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\bin\Debug\SayiyiYaziyaCevirme.exe
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\bin\Debug\SayiyiYaziyaCevirme.pdb
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.Form1.resources
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.Properties.Resources.resources
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.exe
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.pdb
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.exe
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.pdb
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\bin\Debug\SayiyiYaziyaCevirme.exe
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\bin\Debug\SayiyiYaziyaCevirme.pdb
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.Form1.resources
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.Properties.Resources.resources
+F:\DATA\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.csproj.GenerateResource.Cache
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\bin\Debug\SayiyiYaziyaCevirme.exe
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\bin\Debug\SayiyiYaziyaCevirme.pdb
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.Form1.resources
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.Properties.Resources.resources
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.csproj.GenerateResource.cache
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.exe
+C:\Users\Harun\source\repos\Projects\SayiyiYaziyaCevirme\SayiyiYaziyaCevirme\obj\x86\Debug\SayiyiYaziyaCevirme.pdb

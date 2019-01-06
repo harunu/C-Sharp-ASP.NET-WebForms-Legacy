@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=iso 8859-9"
+ http-equiv="content-type"/>
+  <title>ScRipt</title>
+<script type="text/javascript">
+    function cevir() {
+        var el = document.getElementById('sayi1');
+        var el2 = document.getElementById('sayi2');
+        if (el.value.length == 1 && el.value == 0) return el2.value = "sıfır";
+        var basamak = [
+[0, "", "", "", "bin", ""],
+[1, "bir", "on", "yüz", "bin", "onbirnü", "yüz", "birmilyon", "on", "yüz"],
+[2, "iki", "yirmi", "iki yüz", "iki bin", "yirmi", "ikiyüz", "ikimilyon", "yirmi", "ikiyüz", ],
+[3, "üç", "otuz", "üç yüz", "üç bin", "otuz", "üçyüz", "üçmilyon", "otuz", "üçyüz"],
+[4, "dört", "kırk", "dört yüz", "dört bin", "kırk", "dörtyüz", "dörtmilyon", "kırk", "dörtyüz"],
+[5, "beş", "elli", "beş yüz", "beş bin", "elli", "beşyuz", "beşmilyon", "elli", "beşyuz"],
+[6, "altı", "altmış", "altı yüz", "altı bin", "altmış", "altıyuz", "altımilyon", "altmış", "altıyuz"],
+[7, "yedi", "yetmiş", "yedi yüz", "yedi bin", "yetmiş", "yediyuz", "yedimilyon", "yetmiş", "yediyuz"],
+[8, "sekiz", "seksen", "sekiz yüz", "sekiz bin", "seksen", "sekizyuz", "sekizmilyon", "seksen", "sekizyuz"],
+[9, "dokuz", "doksan", "dokuz yüz", "dokuz bin", "doksan", "dokuzyuz", "dokuzmilyon", "doksan", "dokuzyuz"]
+];
+
+        var arr = [];
+        for (var n = 0, b = el.value.length; n < el.value.length; n++, b--) {
+            for (var i = 0; i < 10; i++) {
+                if (el.value.charAt(n) == basamak[i][0]) arr[arr.length] = basamak[i][b];
+            }
+        }
+        el2.value = arr.join(" ");
+    }
+</script>
+</head>
+<body>
+<input type="text" id="sayi1" value=""/>
+<input type="button"  value="yazıya çevir" onclick="cevir()" />
+<input type="text" id="sayi2" />
+</body>
+</html>

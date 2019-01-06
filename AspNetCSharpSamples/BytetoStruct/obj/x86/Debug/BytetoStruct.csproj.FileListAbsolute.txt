@@ -1,0 +1,22 @@
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\h.yazganoglu\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\BytetoStruct\BytetoStruct\obj\x86\Debug\ConsoleApplication1.exe
+C:\BytetoStruct\BytetoStruct\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Companies\ASIS\BytetoStruct\BytetoStruct\obj\x86\Debug\ConsoleApplication1.exe
+G:\Companies\ASIS\BytetoStruct\BytetoStruct\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Companies\ASIS\BytetoStruct\BytetoStruct\bin\Debug\ConsoleApplication1.exe
+G:\Companies\ASIS\BytetoStruct\BytetoStruct\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Harun\source\repos\Projects\BytetoStruct\bin\Debug\ConsoleApplication1.exe
+C:\Users\Harun\source\repos\Projects\BytetoStruct\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Harun\source\repos\Projects\BytetoStruct\obj\x86\Debug\BytetoStruct.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\Projects\BytetoStruct\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Harun\source\repos\Projects\BytetoStruct\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\BytetoStruct\bin\Debug\ConsoleApplication1.exe
+C:\Users\Harun\source\repos\AspNetCSharpSamples\BytetoStruct\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\BytetoStruct\obj\x86\Debug\BytetoStruct.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\AspNetCSharpSamples\BytetoStruct\obj\x86\Debug\BytetoStruct.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\AspNetCSharpSamples\BytetoStruct\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Harun\source\repos\AspNetCSharpSamples\BytetoStruct\obj\x86\Debug\ConsoleApplication1.pdb

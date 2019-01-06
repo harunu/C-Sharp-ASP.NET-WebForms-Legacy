@@ -1,0 +1,19 @@
+c:\users\h.yazganoglu\documents\visual studio 2010\Projects\TestProject\TestProject\bin\TestProject.dll
+c:\users\h.yazganoglu\documents\visual studio 2010\Projects\TestProject\TestProject\bin\TestProject.pdb
+c:\users\h.yazganoglu\documents\visual studio 2010\Projects\TestProject\TestProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\h.yazganoglu\documents\visual studio 2010\Projects\TestProject\TestProject\obj\Debug\TestProject.dll
+c:\users\h.yazganoglu\documents\visual studio 2010\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\bin\TestProject.dll
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\Harun\source\repos\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\bin\TestProject.dll.config
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\bin\TestProject.dll
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\bin\TestProject.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.dll
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
