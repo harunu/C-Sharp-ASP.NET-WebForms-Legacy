@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HAYATIMIZFILMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TBCART">
+    <Key>
+      <PropertyRef Name="CARTID" />
+    </Key>
+    <Property Name="CARTID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CUSTID" Type="int" />
+    <Property Name="MOVIEID" Type="int" />
+    <Property Name="ORDERID" Type="int" />
+    <Property Name="QUANTITY" Type="int" />
+    <Property Name="PRICE" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SUPPLIED" Type="int" />
+  </EntityType>
+  <EntityType Name="TBCATEGORIES">
+    <Key>
+      <PropertyRef Name="CATID" />
+    </Key>
+    <Property Name="CATID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CATEGORYNAME" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TBCUSTOMER">
+    <Key>
+      <PropertyRef Name="CUSTID" />
+    </Key>
+    <Property Name="CUSTID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="SURNAME" Type="varchar" MaxLength="50" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="50" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="50" />
+    <Property Name="PHONE" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBMOVIES">
+    <Key>
+      <PropertyRef Name="MOVIEID" />
+    </Key>
+    <Property Name="MOVIEID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="YEAR" Type="int" />
+    <Property Name="TYPE" Type="varchar" MaxLength="50" />
+    <Property Name="CATID" Type="int" />
+    <Property Name="DESCRIPTION" Type="varchar" MaxLength="500" />
+    <Property Name="PRICE" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="POSTERIMAGE" Type="varchar" MaxLength="50" />
+    <Property Name="ACTIVE" Type="bit" />
+    <Property Name="SUPPID" Type="int" />
+  </EntityType>
+  <EntityType Name="TBORDER">
+    <Key>
+      <PropertyRef Name="ORDERID" />
+    </Key>
+    <Property Name="ORDERID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ORDERDATE" Type="date" />
+    <Property Name="ADDRESS" Type="varchar" MaxLength="500" />
+    <Property Name="CUSTID" Type="int" />
+    <Property Name="NOTES" Type="varchar" MaxLength="50" />
+    <Property Name="ORDERSTATUS" Type="int" />
+  </EntityType>
+  <EntityType Name="TBSUPPLIER">
+    <Key>
+      <PropertyRef Name="SUPPID" />
+    </Key>
+    <Property Name="SUPPID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'HAYATIMIZFILM.dbo.SRGMOVIES' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="SRGMOVIES">
+    <Key>
+      <PropertyRef Name="CATEGORYNAME" />
+      <PropertyRef Name="MOVIEID" />
+    </Key>
+    <Property Name="CATEGORYNAME" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="MOVIEID" Type="int" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="YEAR" Type="int" />
+    <Property Name="TYPE" Type="varchar" MaxLength="50" />
+    <Property Name="CATID" Type="int" />
+    <Property Name="DESCRIPTION" Type="varchar" MaxLength="500" />
+    <Property Name="PRICE" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="POSTERIMAGE" Type="varchar" MaxLength="50" />
+    <Property Name="ACTIVE" Type="bit" />
+    <Property Name="SUPPID" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'HAYATIMIZFILM.dbo.SRGOrderSupp' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="SRGOrderSupp">
+    <Key>
+      <PropertyRef Name="CARTID" />
+    </Key>
+    <Property Name="MOVIEID" Type="int" />
+    <Property Name="CARTID" Type="int" Nullable="false" />
+    <Property Name="ORDERID" Type="int" />
+    <Property Name="QUANTITY" Type="int" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="ORDERSTATUS" Type="int" />
+    <Property Name="SUPPID" Type="int" />
+  </EntityType>
+  <Association Name="FK_TBCART_TBCUSTOMER">
+    <End Role="TBCUSTOMER" Type="Self.TBCUSTOMER" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCUSTOMER">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBCART_TBCUSTOMER1">
+    <End Role="TBCUSTOMER" Type="Self.TBCUSTOMER" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCUSTOMER">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBCART_TBMOVIES">
+    <End Role="TBMOVIES" Type="Self.TBMOVIES" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBMOVIES">
+        <PropertyRef Name="MOVIEID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="MOVIEID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBCART_TBORDER">
+    <End Role="TBORDER" Type="Self.TBORDER" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBORDER">
+        <PropertyRef Name="ORDERID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="ORDERID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBMOVIES_TBCATEGORIES">
+    <End Role="TBCATEGORIES" Type="Self.TBCATEGORIES" Multiplicity="0..1" />
+    <End Role="TBMOVIES" Type="Self.TBMOVIES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCATEGORIES">
+        <PropertyRef Name="CATID" />
+      </Principal>
+      <Dependent Role="TBMOVIES">
+        <PropertyRef Name="CATID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBMOVIES_TBSUPPLIER">
+    <End Role="TBSUPPLIER" Type="Self.TBSUPPLIER" Multiplicity="0..1" />
+    <End Role="TBMOVIES" Type="Self.TBMOVIES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBSUPPLIER">
+        <PropertyRef Name="SUPPID" />
+      </Principal>
+      <Dependent Role="TBMOVIES">
+        <PropertyRef Name="SUPPID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBORDER_TBCUSTOMER">
+    <End Role="TBCUSTOMER" Type="Self.TBCUSTOMER" Multiplicity="0..1" />
+    <End Role="TBORDER" Type="Self.TBORDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCUSTOMER">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="TBORDER">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="PRCAdd2Cart" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ProductID" Type="int" Mode="In" />
+    <Parameter Name="CustID" Type="int" Mode="In" />
+    <Parameter Name="Quantity" Type="int" Mode="In" />
+    <Parameter Name="Price" Type="decimal" Mode="In" />
+  </Function>
+  <Function Name="PRCMovieStatusUpdate" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MovieID" Type="int" Mode="In" />
+    <Parameter Name="SuppId" Type="int" Mode="In" />
+    <Parameter Name="Status" Type="bit" Mode="In" />
+  </Function>
+  <Function Name="PRCOder" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="CustID" Type="int" Mode="In" />
+    <Parameter Name="Address" Type="varchar" Mode="In" />
+    <Parameter Name="Notlar" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="SPGiris" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="EPOSTA" Type="varchar" Mode="In" />
+    <Parameter Name="PAROLA" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="HAYATIMIZFILMModelStoreContainer">
+    <EntitySet Name="TBCART" EntityType="Self.TBCART" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBCATEGORIES" EntityType="Self.TBCATEGORIES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBCUSTOMER" EntityType="Self.TBCUSTOMER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBMOVIES" EntityType="Self.TBMOVIES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBORDER" EntityType="Self.TBORDER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBSUPPLIER" EntityType="Self.TBSUPPLIER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SRGMOVIES" EntityType="Self.SRGMOVIES" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [SRGMOVIES].[CATEGORYNAME] AS [CATEGORYNAME], 
+    [SRGMOVIES].[MOVIEID] AS [MOVIEID], 
+    [SRGMOVIES].[NAME] AS [NAME], 
+    [SRGMOVIES].[YEAR] AS [YEAR], 
+    [SRGMOVIES].[TYPE] AS [TYPE], 
+    [SRGMOVIES].[CATID] AS [CATID], 
+    [SRGMOVIES].[DESCRIPTION] AS [DESCRIPTION], 
+    [SRGMOVIES].[PRICE] AS [PRICE], 
+    [SRGMOVIES].[POSTERIMAGE] AS [POSTERIMAGE], 
+    [SRGMOVIES].[ACTIVE] AS [ACTIVE], 
+    [SRGMOVIES].[SUPPID] AS [SUPPID]
+    FROM [dbo].[SRGMOVIES] AS [SRGMOVIES]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="SRGOrderSupp" EntityType="Self.SRGOrderSupp" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [SRGOrderSupp].[MOVIEID] AS [MOVIEID], 
+    [SRGOrderSupp].[CARTID] AS [CARTID], 
+    [SRGOrderSupp].[ORDERID] AS [ORDERID], 
+    [SRGOrderSupp].[QUANTITY] AS [QUANTITY], 
+    [SRGOrderSupp].[NAME] AS [NAME], 
+    [SRGOrderSupp].[ORDERSTATUS] AS [ORDERSTATUS], 
+    [SRGOrderSupp].[SUPPID] AS [SUPPID]
+    FROM [dbo].[SRGOrderSupp] AS [SRGOrderSupp]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_TBCART_TBCUSTOMER" Association="Self.FK_TBCART_TBCUSTOMER">
+      <End Role="TBCUSTOMER" EntitySet="TBCUSTOMER" />
+      <End Role="TBCART" EntitySet="TBCART" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBCART_TBCUSTOMER1" Association="Self.FK_TBCART_TBCUSTOMER1">
+      <End Role="TBCUSTOMER" EntitySet="TBCUSTOMER" />
+      <End Role="TBCART" EntitySet="TBCART" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBCART_TBMOVIES" Association="Self.FK_TBCART_TBMOVIES">
+      <End Role="TBMOVIES" EntitySet="TBMOVIES" />
+      <End Role="TBCART" EntitySet="TBCART" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBCART_TBORDER" Association="Self.FK_TBCART_TBORDER">
+      <End Role="TBORDER" EntitySet="TBORDER" />
+      <End Role="TBCART" EntitySet="TBCART" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBMOVIES_TBCATEGORIES" Association="Self.FK_TBMOVIES_TBCATEGORIES">
+      <End Role="TBCATEGORIES" EntitySet="TBCATEGORIES" />
+      <End Role="TBMOVIES" EntitySet="TBMOVIES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBMOVIES_TBSUPPLIER" Association="Self.FK_TBMOVIES_TBSUPPLIER">
+      <End Role="TBSUPPLIER" EntitySet="TBSUPPLIER" />
+      <End Role="TBMOVIES" EntitySet="TBMOVIES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBORDER_TBCUSTOMER" Association="Self.FK_TBORDER_TBCUSTOMER">
+      <End Role="TBCUSTOMER" EntitySet="TBCUSTOMER" />
+      <End Role="TBORDER" EntitySet="TBORDER" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

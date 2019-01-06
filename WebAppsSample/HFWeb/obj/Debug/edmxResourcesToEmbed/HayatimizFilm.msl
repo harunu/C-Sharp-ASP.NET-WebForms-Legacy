@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HAYATIMIZFILMModelStoreContainer" CdmEntityContainer="HAYATIMIZFILMEntities">
+    <EntitySetMapping Name="TBCARTs">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.TBCART">
+        <MappingFragment StoreEntitySet="TBCART">
+          <ScalarProperty Name="CARTID" ColumnName="CARTID" />
+          <ScalarProperty Name="CUSTID" ColumnName="CUSTID" />
+          <ScalarProperty Name="MOVIEID" ColumnName="MOVIEID" />
+          <ScalarProperty Name="ORDERID" ColumnName="ORDERID" />
+          <ScalarProperty Name="QUANTITY" ColumnName="QUANTITY" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="SUPPLIED" ColumnName="SUPPLIED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBCATEGORIES">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.TBCATEGORy">
+        <MappingFragment StoreEntitySet="TBCATEGORIES">
+          <ScalarProperty Name="CATID" ColumnName="CATID" />
+          <ScalarProperty Name="CATEGORYNAME" ColumnName="CATEGORYNAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBCUSTOMERs">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.TBCUSTOMER">
+        <MappingFragment StoreEntitySet="TBCUSTOMER">
+          <ScalarProperty Name="CUSTID" ColumnName="CUSTID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="PHONE" ColumnName="PHONE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBMOVIES">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.TBMOVy">
+        <MappingFragment StoreEntitySet="TBMOVIES">
+          <ScalarProperty Name="MOVIEID" ColumnName="MOVIEID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="YEAR" ColumnName="YEAR" />
+          <ScalarProperty Name="TYPE" ColumnName="TYPE" />
+          <ScalarProperty Name="CATID" ColumnName="CATID" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="POSTERIMAGE" ColumnName="POSTERIMAGE" />
+          <ScalarProperty Name="ACTIVE" ColumnName="ACTIVE" />
+          <ScalarProperty Name="SUPPID" ColumnName="SUPPID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBORDERs">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.TBORDER">
+        <MappingFragment StoreEntitySet="TBORDER">
+          <ScalarProperty Name="ORDERID" ColumnName="ORDERID" />
+          <ScalarProperty Name="ORDERDATE" ColumnName="ORDERDATE" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+          <ScalarProperty Name="CUSTID" ColumnName="CUSTID" />
+          <ScalarProperty Name="NOTES" ColumnName="NOTES" />
+          <ScalarProperty Name="ORDERSTATUS" ColumnName="ORDERSTATUS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBSUPPLIERs">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.TBSUPPLIER">
+        <MappingFragment StoreEntitySet="TBSUPPLIER">
+          <ScalarProperty Name="SUPPID" ColumnName="SUPPID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SRGMOVIES">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.SRGMOVy">
+        <MappingFragment StoreEntitySet="SRGMOVIES">
+          <ScalarProperty Name="CATEGORYNAME" ColumnName="CATEGORYNAME" />
+          <ScalarProperty Name="MOVIEID" ColumnName="MOVIEID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="YEAR" ColumnName="YEAR" />
+          <ScalarProperty Name="TYPE" ColumnName="TYPE" />
+          <ScalarProperty Name="CATID" ColumnName="CATID" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="POSTERIMAGE" ColumnName="POSTERIMAGE" />
+          <ScalarProperty Name="ACTIVE" ColumnName="ACTIVE" />
+          <ScalarProperty Name="SUPPID" ColumnName="SUPPID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SRGOrderSupps">
+      <EntityTypeMapping TypeName="HAYATIMIZFILMModel.SRGOrderSupp">
+        <MappingFragment StoreEntitySet="SRGOrderSupp">
+          <ScalarProperty Name="MOVIEID" ColumnName="MOVIEID" />
+          <ScalarProperty Name="CARTID" ColumnName="CARTID" />
+          <ScalarProperty Name="ORDERID" ColumnName="ORDERID" />
+          <ScalarProperty Name="QUANTITY" ColumnName="QUANTITY" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ORDERSTATUS" ColumnName="ORDERSTATUS" />
+          <ScalarProperty Name="SUPPID" ColumnName="SUPPID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="PRCAdd2Cart" FunctionName="HAYATIMIZFILMModel.Store.PRCAdd2Cart" />
+    <FunctionImportMapping FunctionImportName="PRCMovieStatusUpdate" FunctionName="HAYATIMIZFILMModel.Store.PRCMovieStatusUpdate" />
+    <FunctionImportMapping FunctionImportName="PRCOder" FunctionName="HAYATIMIZFILMModel.Store.PRCOder" />
+    <FunctionImportMapping FunctionImportName="SPGiris" FunctionName="HAYATIMIZFILMModel.Store.SPGiris" />
+  </EntityContainerMapping>
+</Mapping>

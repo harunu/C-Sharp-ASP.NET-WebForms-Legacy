@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HAYATIMIZFILMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBCART">
+    <Key>
+      <PropertyRef Name="CARTID" />
+    </Key>
+    <Property Name="CARTID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CUSTID" Type="Int32" />
+    <Property Name="MOVIEID" Type="Int32" />
+    <Property Name="ORDERID" Type="Int32" />
+    <Property Name="QUANTITY" Type="Int32" />
+    <Property Name="PRICE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SUPPLIED" Type="Int32" />
+    <NavigationProperty Name="TBCUSTOMER" Relationship="Self.FK_TBCART_TBCUSTOMER" FromRole="TBCART" ToRole="TBCUSTOMER" />
+    <NavigationProperty Name="TBCUSTOMER1" Relationship="Self.FK_TBCART_TBCUSTOMER1" FromRole="TBCART" ToRole="TBCUSTOMER" />
+    <NavigationProperty Name="TBMOVy" Relationship="Self.FK_TBCART_TBMOVIES" FromRole="TBCART" ToRole="TBMOVIES" />
+    <NavigationProperty Name="TBORDER" Relationship="Self.FK_TBCART_TBORDER" FromRole="TBCART" ToRole="TBORDER" />
+  </EntityType>
+  <EntityType Name="TBCATEGORy">
+    <Key>
+      <PropertyRef Name="CATID" />
+    </Key>
+    <Property Name="CATID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CATEGORYNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TBMOVIES" Relationship="Self.FK_TBMOVIES_TBCATEGORIES" FromRole="TBCATEGORIES" ToRole="TBMOVIES" />
+  </EntityType>
+  <EntityType Name="TBCUSTOMER">
+    <Key>
+      <PropertyRef Name="CUSTID" />
+    </Key>
+    <Property Name="CUSTID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SURNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PHONE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBCARTs" Relationship="Self.FK_TBCART_TBCUSTOMER" FromRole="TBCUSTOMER" ToRole="TBCART" />
+    <NavigationProperty Name="TBCARTs1" Relationship="Self.FK_TBCART_TBCUSTOMER1" FromRole="TBCUSTOMER" ToRole="TBCART" />
+    <NavigationProperty Name="TBORDERs" Relationship="Self.FK_TBORDER_TBCUSTOMER" FromRole="TBCUSTOMER" ToRole="TBORDER" />
+  </EntityType>
+  <EntityType Name="TBMOVy">
+    <Key>
+      <PropertyRef Name="MOVIEID" />
+    </Key>
+    <Property Name="MOVIEID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="YEAR" Type="Int32" />
+    <Property Name="TYPE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CATID" Type="Int32" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PRICE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="POSTERIMAGE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ACTIVE" Type="Boolean" />
+    <Property Name="SUPPID" Type="Int32" />
+    <NavigationProperty Name="TBCARTs" Relationship="Self.FK_TBCART_TBMOVIES" FromRole="TBMOVIES" ToRole="TBCART" />
+    <NavigationProperty Name="TBCATEGORy" Relationship="Self.FK_TBMOVIES_TBCATEGORIES" FromRole="TBMOVIES" ToRole="TBCATEGORIES" />
+    <NavigationProperty Name="TBSUPPLIER" Relationship="Self.FK_TBMOVIES_TBSUPPLIER" FromRole="TBMOVIES" ToRole="TBSUPPLIER" />
+  </EntityType>
+  <EntityType Name="TBORDER">
+    <Key>
+      <PropertyRef Name="ORDERID" />
+    </Key>
+    <Property Name="ORDERID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ORDERDATE" Type="DateTime" Precision="0" />
+    <Property Name="ADDRESS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="CUSTID" Type="Int32" />
+    <Property Name="NOTES" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ORDERSTATUS" Type="Int32" />
+    <NavigationProperty Name="TBCARTs" Relationship="Self.FK_TBCART_TBORDER" FromRole="TBORDER" ToRole="TBCART" />
+    <NavigationProperty Name="TBCUSTOMER" Relationship="Self.FK_TBORDER_TBCUSTOMER" FromRole="TBORDER" ToRole="TBCUSTOMER" />
+  </EntityType>
+  <EntityType Name="TBSUPPLIER">
+    <Key>
+      <PropertyRef Name="SUPPID" />
+    </Key>
+    <Property Name="SUPPID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBMOVIES" Relationship="Self.FK_TBMOVIES_TBSUPPLIER" FromRole="TBSUPPLIER" ToRole="TBMOVIES" />
+  </EntityType>
+  <EntityType Name="SRGMOVy">
+    <Key>
+      <PropertyRef Name="CATEGORYNAME" />
+      <PropertyRef Name="MOVIEID" />
+    </Key>
+    <Property Name="CATEGORYNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MOVIEID" Type="Int32" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="YEAR" Type="Int32" />
+    <Property Name="TYPE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CATID" Type="Int32" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PRICE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="POSTERIMAGE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ACTIVE" Type="Boolean" />
+    <Property Name="SUPPID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="SRGOrderSupp">
+    <Key>
+      <PropertyRef Name="CARTID" />
+    </Key>
+    <Property Name="MOVIEID" Type="Int32" />
+    <Property Name="CARTID" Type="Int32" Nullable="false" />
+    <Property Name="ORDERID" Type="Int32" />
+    <Property Name="QUANTITY" Type="Int32" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ORDERSTATUS" Type="Int32" />
+    <Property Name="SUPPID" Type="Int32" />
+  </EntityType>
+  <Association Name="FK_TBCART_TBCUSTOMER">
+    <End Role="TBCUSTOMER" Type="Self.TBCUSTOMER" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCUSTOMER">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBCART_TBCUSTOMER1">
+    <End Role="TBCUSTOMER" Type="Self.TBCUSTOMER" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCUSTOMER">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBCART_TBMOVIES">
+    <End Role="TBMOVIES" Type="Self.TBMOVy" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBMOVIES">
+        <PropertyRef Name="MOVIEID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="MOVIEID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBCART_TBORDER">
+    <End Role="TBORDER" Type="Self.TBORDER" Multiplicity="0..1" />
+    <End Role="TBCART" Type="Self.TBCART" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBORDER">
+        <PropertyRef Name="ORDERID" />
+      </Principal>
+      <Dependent Role="TBCART">
+        <PropertyRef Name="ORDERID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBMOVIES_TBCATEGORIES">
+    <End Role="TBCATEGORIES" Type="Self.TBCATEGORy" Multiplicity="0..1" />
+    <End Role="TBMOVIES" Type="Self.TBMOVy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCATEGORIES">
+        <PropertyRef Name="CATID" />
+      </Principal>
+      <Dependent Role="TBMOVIES">
+        <PropertyRef Name="CATID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBORDER_TBCUSTOMER">
+    <End Role="TBCUSTOMER" Type="Self.TBCUSTOMER" Multiplicity="0..1" />
+    <End Role="TBORDER" Type="Self.TBORDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBCUSTOMER">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="TBORDER">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBMOVIES_TBSUPPLIER">
+    <End Role="TBSUPPLIER" Type="Self.TBSUPPLIER" Multiplicity="0..1" />
+    <End Role="TBMOVIES" Type="Self.TBMOVy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBSUPPLIER">
+        <PropertyRef Name="SUPPID" />
+      </Principal>
+      <Dependent Role="TBMOVIES">
+        <PropertyRef Name="SUPPID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HAYATIMIZFILMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBCARTs" EntityType="Self.TBCART" />
+    <EntitySet Name="TBCATEGORIES" EntityType="Self.TBCATEGORy" />
+    <EntitySet Name="TBCUSTOMERs" EntityType="Self.TBCUSTOMER" />
+    <EntitySet Name="TBMOVIES" EntityType="Self.TBMOVy" />
+    <EntitySet Name="TBORDERs" EntityType="Self.TBORDER" />
+    <EntitySet Name="TBSUPPLIERs" EntityType="Self.TBSUPPLIER" />
+    <EntitySet Name="SRGMOVIES" EntityType="Self.SRGMOVy" />
+    <EntitySet Name="SRGOrderSupps" EntityType="Self.SRGOrderSupp" />
+    <AssociationSet Name="FK_TBCART_TBCUSTOMER" Association="Self.FK_TBCART_TBCUSTOMER">
+      <End Role="TBCUSTOMER" EntitySet="TBCUSTOMERs" />
+      <End Role="TBCART" EntitySet="TBCARTs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBCART_TBCUSTOMER1" Association="Self.FK_TBCART_TBCUSTOMER1">
+      <End Role="TBCUSTOMER" EntitySet="TBCUSTOMERs" />
+      <End Role="TBCART" EntitySet="TBCARTs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBCART_TBMOVIES" Association="Self.FK_TBCART_TBMOVIES">
+      <End Role="TBMOVIES" EntitySet="TBMOVIES" />
+      <End Role="TBCART" EntitySet="TBCARTs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBCART_TBORDER" Association="Self.FK_TBCART_TBORDER">
+      <End Role="TBORDER" EntitySet="TBORDERs" />
+      <End Role="TBCART" EntitySet="TBCARTs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBMOVIES_TBCATEGORIES" Association="Self.FK_TBMOVIES_TBCATEGORIES">
+      <End Role="TBCATEGORIES" EntitySet="TBCATEGORIES" />
+      <End Role="TBMOVIES" EntitySet="TBMOVIES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBORDER_TBCUSTOMER" Association="Self.FK_TBORDER_TBCUSTOMER">
+      <End Role="TBCUSTOMER" EntitySet="TBCUSTOMERs" />
+      <End Role="TBORDER" EntitySet="TBORDERs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBMOVIES_TBSUPPLIER" Association="Self.FK_TBMOVIES_TBSUPPLIER">
+      <End Role="TBSUPPLIER" EntitySet="TBSUPPLIERs" />
+      <End Role="TBMOVIES" EntitySet="TBMOVIES" />
+    </AssociationSet>
+    <FunctionImport Name="PRCAdd2Cart">
+      <Parameter Name="ProductID" Mode="In" Type="Int32" />
+      <Parameter Name="CustID" Mode="In" Type="Int32" />
+      <Parameter Name="Quantity" Mode="In" Type="Int32" />
+      <Parameter Name="Price" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="PRCMovieStatusUpdate">
+      <Parameter Name="MovieID" Mode="In" Type="Int32" />
+      <Parameter Name="SuppId" Mode="In" Type="Int32" />
+      <Parameter Name="Status" Mode="In" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="PRCOder" ReturnType="Collection(Int32)">
+      <Parameter Name="CustID" Mode="In" Type="Int32" />
+      <Parameter Name="Address" Mode="In" Type="String" />
+      <Parameter Name="Notlar" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SPGiris" ReturnType="Collection(Int32)">
+      <Parameter Name="EPOSTA" Mode="In" Type="String" />
+      <Parameter Name="PAROLA" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+</Schema>
