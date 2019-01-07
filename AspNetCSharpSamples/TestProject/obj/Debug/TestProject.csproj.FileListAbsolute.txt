@@ -17,3 +17,10 @@ C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProjec
 C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.dll
 C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.pdb
 C:\Users\Harun\source\repos\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\bin\TestProject.dll.config
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\bin\TestProject.dll
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\bin\TestProject.pdb
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.dll
+C:\Users\Harun\Documents\GitHub\HarunDevelopment\AspNetCSharpSamples\TestProject\obj\Debug\TestProject.pdb
