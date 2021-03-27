@@ -38,32 +38,21 @@ background:#0BF410;
     });
     function pixel() {
         var container = document.getElementById("sagust");
-
         var message = "The height is" + sagust.clientHeight + "px.\n";
-
         message += "The width is " + sagust.clientWidth + "px.\n";
-
         alert(message);
     }
     function pos(obj) {
         var ofs = obj.offset();
         document.title = obj.html()+(ofs.top + ' ' + ofs.left);
     }
-
     </script>
-
     <title> </title>
 </head>
 <body style="margin-bottom: 0px;height:100%;position:relative;">
- 
 <div class="sagust"> Sağ üst</div>
-
 <div class="sagalt" >Sağ alt
-
 <div class="sagust" >Sağ üst</div>
 </div>
-
- 
-   
 </body>
 </html>

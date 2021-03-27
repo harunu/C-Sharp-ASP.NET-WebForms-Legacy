@@ -20,13 +20,8 @@ namespace GlobalSpyAnalysisApplication
             newSpy.Notes = "The intesect";
             newSpy.SpyAgency = CIA;
 
-
             newSpy.DisplaySpyInfo();
-
             Console.ReadLine();
-
-
-
         }
     }
 }

@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
-using System.Configuration;
+using System.Linq;
 using System.Text.RegularExpressions;
+using System.Windows.Forms;
 
 //    ALTER TABLE dbo.ac_tr_STATION_Ips ADD
 //    AcmIp varchar(20) NULL
@@ -42,7 +40,6 @@ namespace VncOats
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
             string path = e.Argument.ToString();
-            
 
             DirectoryInfo dir = new DirectoryInfo(path);
             FileInfo[] files = dir.GetFiles("*.vnc", SearchOption.TopDirectoryOnly);
@@ -53,9 +50,6 @@ namespace VncOats
                 e.Cancel = true;
                 return;
             }
-
-
-
             Myconnection.Open();
 
             //foreach (FileInfo file in files)
@@ -82,20 +76,15 @@ namespace VncOats
                 SqlDataAdapter dbp = new SqlDataAdapter(cmd2);
                 DataTable table = new DataTable("test");
                 dbp.Fill(table);
-
                 //DataTable table = ds.Tables[0];
-
                 int b = table.Rows.Count;
-
                 foreach (DataRow dr in table.Rows)
                 {
                     b--;
                     backgroundWorker1.ReportProgress(b);
 
                     int Subcode = Convert.ToInt32(dr["Subcode"]);
-
                     int StationId = Convert.ToInt32(dr["StationId"]);
-
                     string filename = String.Format("{0}.vnc", StationId);
                     if (Subcode > 0)
                     {
@@ -122,9 +111,6 @@ namespace VncOats
                                     string pattern = @"\b(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b";
                                     string ip = Regex.Match(str, pattern).ToString();
                                     Console.WriteLine(ip);
-
-
-
                                     cmd2.CommandText = "UPDATE dbo.ac_tr_STATION_Ips SET  [AcmIp] = @AcmIp WHERE CompanyId = @CompanyId and StationId = @StationId and SubCode = @Subcode";
                                     cmd2.Parameters.Clear();
                                     cmd2.Parameters.AddWithValue("@AcmIp", ip);
@@ -143,9 +129,6 @@ namespace VncOats
                 }
                 Console.WriteLine(table.Rows.Count);
             }
-
-            
-
         }
 
         private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
@@ -153,7 +136,6 @@ namespace VncOats
             label1.Text = e.ProgressPercentage.ToString("N0");
             if (e.UserState != null)
                 label1.Text = e.UserState.ToString();
-
         }
 
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
@@ -161,7 +143,6 @@ namespace VncOats
             progressBar1.Visible = false;
             label3.Visible = true;
             button1.Enabled = true;
-
             if (e.Cancelled)
             {
                 label3.Text = "Hiç dosya yok.";
@@ -171,6 +152,5 @@ namespace VncOats
                 label3.Text = "İşleminiz başarıyla tamamlanmıştır.";
             }
         }
-
     }
 }

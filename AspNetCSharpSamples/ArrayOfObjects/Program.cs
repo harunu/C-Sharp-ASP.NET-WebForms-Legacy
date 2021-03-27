@@ -1,10 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-
-using System.Collections ;
 
 namespace ArrayOfObjects
 {
@@ -36,8 +31,6 @@ namespace ArrayOfObjects
             a2.ExteriorColur = "Silver";
             a2.Miles = 750;
 
-
-
             Automobile a3 = new Automobile();
 
             a3.Make = "Geo";
@@ -46,7 +39,6 @@ namespace ArrayOfObjects
             a3.ExteriorColur = "Green";
             a3.Miles = 154001;
 
-            
             Automobile a4 = new Automobile();
 
             a4.Make = "Nissan";
@@ -54,7 +46,6 @@ namespace ArrayOfObjects
             a4.Year = 2000;
             a4.ExteriorColur = "Black";
             a4.Miles = 105001;
-
 
             Automobile a5 = new Automobile();
 
@@ -70,43 +61,34 @@ namespace ArrayOfObjects
             inventory.Add(a4);
             inventory.Add(a5);
 
+            //inventory[0] = a1;
+            //inventory[1] = a2;
+            //inventory[2] = a3;
+            //inventory[3] = a4;
+            //inventory[4] = a5;
 
-
-
-             //inventory[0] = a1;
-             //inventory[1] = a2;
-             //inventory[2] = a3;
-             //inventory[3] = a4;
-             //inventory[4] = a5;
-
-
-            Console.WriteLine ("Our current inventory includes:");
-
+            Console.WriteLine("Our current inventory includes:");
 
             //for(int i = 0 ; i<5 ; i++){
             //inventory[i].Print();
             //}
 
-
-            foreach (object item in inventory) {
-
+            foreach (object item in inventory)
+            {
 
                 Automobile auto = (Automobile)item;
-                auto.Print();   
+                auto.Print();
             }
 
-            Console.WriteLine ("");
-            Console.WriteLine ("We have a special promotion on this vehicle:");
+            Console.WriteLine("");
+            Console.WriteLine("We have a special promotion on this vehicle:");
 
-        //inventory [1].Print();
-
-        //    Console.ReadLine();
+            //inventory [1].Print();
+            // Console.ReadLine();
 
             Automobile promoAuto = (Automobile)inventory[1];
             promoAuto.Print();
-
             Console.ReadLine();
-
         }
     }
 }

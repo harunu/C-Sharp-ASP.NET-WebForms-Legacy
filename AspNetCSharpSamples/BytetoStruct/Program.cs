@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.IO;
 using System.Runtime.InteropServices;
-using System.IO ;
-using System.Runtime.Serialization.Formatters.Binary;
 
 namespace BytetoStruct
 {
@@ -71,9 +67,7 @@ namespace BytetoStruct
 
             public static double ConvertByteArrayToDouble(byte[] b)
             {
-
                 return BitConverter.ToDouble(b, 0);
-
             }
 
             private byte[] StructToByte(SimpleStruct str)
@@ -104,9 +98,7 @@ namespace BytetoStruct
                 {
 
                     Marshal.FreeHGlobal(ptr);
-
                 }
-
             }
 
             public static SimpleStruct ByteToStruct(byte[] arr)
@@ -157,21 +149,15 @@ namespace BytetoStruct
 
                 Console.WriteLine(str.StationId);
                 Console.WriteLine(str.StationName);
-
                 //SimpleStruct  theStruct = reader.ReadStruct(str);
-
                 reader.Close();
-
             }
-
         }
 
 
         static void Main(string[] args)
         {
-
             SimpleStruct ss = new SimpleStruct();
-
             ss.DisplayX();
             Console.ReadLine();
         }

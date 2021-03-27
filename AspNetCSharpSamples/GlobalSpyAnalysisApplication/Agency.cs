@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace GlobalSpyAnalysisApplication
+﻿namespace GlobalSpyAnalysisApplication
 {
     class Agency
     {
@@ -11,20 +6,13 @@ namespace GlobalSpyAnalysisApplication
         private int organizationSize;
         private string country;
 
-
         public string AgencyName
         {
-
             get
             { return agencyName; }
 
-            set { agencyName = value ;  }
-
-
-
-            }
-
-      
+            set { agencyName = value; }
+        }
 
         public string Country
         {
@@ -32,20 +20,17 @@ namespace GlobalSpyAnalysisApplication
             set { country = value; }
         }
 
-       
-
         public int OrganizationSize
         {
             get { return organizationSize; }
             set { organizationSize = value; }
         }
 
-        public string GetAgencyInfo() {
-
+        public string GetAgencyInfo()
+        {
             string message = "";
             message = AgencyName + " " + "(" + Country + " ) + Size: " + OrganizationSize;
             return message;
-        
         }
     }
 }

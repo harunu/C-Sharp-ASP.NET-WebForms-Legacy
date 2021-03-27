@@ -1,25 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace ChipperSample
+﻿namespace ChipperSample
 {
-    class BitCipper:Ichipher 
-
-
+    class BitCipper : Ichipher
     {
         ushort key;
-        public BitCipper (ushort k){
+        public BitCipper(ushort k)
+        {
             key = k;
-
-        
         }
 
         public string encode(string str)
         {
             string chipperText = "";
-            for (int i = 0; i < str.Length ; i++)
+            for (int i = 0; i < str.Length; i++)
             {
                 chipperText = chipperText + (char)(str[i] ^ key);
             }
@@ -29,18 +21,13 @@ namespace ChipperSample
 
         public string decode(string str)
         {
-
-
-             string plainText = "";
-            for (int i = 0; i < str.Length ; i++)
+            string plainText = "";
+            for (int i = 0; i < str.Length; i++)
             {
                 plainText = plainText + (char)(str[i] ^ key);
             }
             return plainText;
         }
-
-
-           
-        }
     }
+}
 
