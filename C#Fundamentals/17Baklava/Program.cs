@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _17Baklava
 {
@@ -34,9 +30,7 @@ namespace _17Baklava
                 {
                     sekil = Math.Abs(cap * 2 - i);
                 }
-
                 //int sekil = Math.Abs(i - cap) + 1;
-
                 int bosluk = (cap - sekil) / 2;
 
                 for (int k = 0; k < bosluk; k++)
@@ -58,7 +52,6 @@ namespace _17Baklava
             }
 
             Console.ReadLine();
-
         }
     }
 }

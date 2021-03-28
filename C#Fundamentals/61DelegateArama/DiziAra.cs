@@ -41,7 +41,6 @@ namespace _61DelegateArama
                     bulunansayi++;
                 }
             }
-
             return sonuc;
         }
 

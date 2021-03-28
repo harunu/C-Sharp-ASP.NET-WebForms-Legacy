@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _21DizilerEnBuyukEnKucuk
 {
@@ -11,9 +7,7 @@ namespace _21DizilerEnBuyukEnKucuk
         static void Main(string[] args)
         {
             int[] dizi = new int[20];
-
             Random rnd = new Random();
-
 
             for (int i = 0; i < 20; i++)
             {
@@ -34,7 +28,6 @@ namespace _21DizilerEnBuyukEnKucuk
                 {
                     enbuyuk = eleman;
                 }
-
                 ortalama += eleman;
             }
 

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _43Numaralandirmalar
 {
@@ -28,9 +24,7 @@ namespace _43Numaralandirmalar
 
         public string HesapDokumu(Gunler gun)
         {
-
             Console.WriteLine(gun.ToString() + " gününün dökümü");
-
             return "";
         }
     }
@@ -46,7 +40,6 @@ namespace _43Numaralandirmalar
 
             //a.HesapDokumu(Musteri.Gunler.Sali);
             string[] gunlerstr = Enum.GetNames(typeof(Musteri.Gunler));
-
             Musteri.Gunler k = (Musteri.Gunler)4;
 
             int i = 1;
@@ -56,17 +49,11 @@ namespace _43Numaralandirmalar
                 i++;
             }
 
-
             Console.WriteLine("Hangi günün raporunu almak istiyorsunuz?");
             int gundegeri = int.Parse(Console.ReadLine());
 
-
-
             a.HesapDokumu((Musteri.Gunler)(gundegeri - 1));
-
             Console.Read();
-
-
         }
     }
 }

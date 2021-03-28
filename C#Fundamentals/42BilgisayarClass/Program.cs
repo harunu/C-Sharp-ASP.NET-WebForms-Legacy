@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _42BilgisayarClass
 {
@@ -23,16 +19,10 @@ o	Bilgisayarın IslemYap isimli bir metodu olsun ve int miktar seklinde bir para
 
         static void Main(string[] args)
         {
-
             Bilgisayar b = new Bilgisayar(500, 64001);
-
             Console.WriteLine(b.IslemYap(8000));
             Console.WriteLine(b.DiskeYaz("Merhaba dünya"));
-
             Console.Read();
-
-
-
         }
     }
 }

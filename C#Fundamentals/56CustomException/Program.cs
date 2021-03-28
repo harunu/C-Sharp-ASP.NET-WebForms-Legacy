@@ -11,7 +11,6 @@ namespace _56CustomException
         public string Message { get; set; }
         public MyException(int a, int b)
         {
-
         }
     }
 
@@ -19,11 +18,8 @@ namespace _56CustomException
     {
         static void Main(string[] args)
         {
-
             MyException exc = new MyException(1, 1);
-
             throw exc;
-
         }
     }
 }

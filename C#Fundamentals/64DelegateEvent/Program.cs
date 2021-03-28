@@ -9,7 +9,6 @@ namespace _64DelegateEvent
     class Program
     {
         public delegate int BirTemsilci();
-
         public delegate void YazTemsilcisi();
 
 

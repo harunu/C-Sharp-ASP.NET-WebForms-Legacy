@@ -1,7 +1,0 @@
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\bin\Debug\VeriTipleri.exe.config
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\bin\Debug\VeriTipleri.exe
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\bin\Debug\VeriTipleri.pdb
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\VeriTipleri.csprojResolveAssemblyReference.cache
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\VeriTipleri.csproj.CoreCompileInputs.cache
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\VeriTipleri.exe
-C:\Users\Harun\source\repos\MCPD\VeriTipleri\obj\Debug\VeriTipleri.pdb

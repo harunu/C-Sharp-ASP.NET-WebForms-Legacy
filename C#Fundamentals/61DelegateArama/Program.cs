@@ -12,19 +12,15 @@ namespace _61DelegateArama
         {
 
             string[] dizi = { "ak", "bddd", "aeee", "cqqq", "daaa", "a" };
-
             DiziAra ara = new DiziAra();
-
             var sonuc = ara.Ara(dizi, BizimArama);
 
             foreach (string bulunan in sonuc)
             {
                 Console.WriteLine(bulunan);
             }
-
             Console.ReadLine();
         }
-
         static bool BizimArama(string metin)
         {
             return metin.IndexOf("a") > -1;

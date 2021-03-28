@@ -13,7 +13,6 @@ namespace _62DelegateSiralama
         public string[] DiziSiralama(string[] dizi, DiziSiralamaFonksiyonu SirlaFonk)
         {
 
-
             for (int i = 1; i < dizi.Length; i++)
             {
                 if (SirlaFonk(dizi[i], dizi[i - 1]) == true)
@@ -24,10 +23,7 @@ namespace _62DelegateSiralama
                     i = 1;
                 }
             }
-
             return dizi;
-
         }
-
     }
 }

@@ -14,7 +14,6 @@ namespace _09SwitchKahveci
             decimal fiyat = decimal.Parse(Console.ReadLine());
             Console.WriteLine("(B)üyük, (O)rta, (K)üçük seçiniz : ");
             string secim = Console.ReadLine();
-
             secim = secim.ToUpper();
 
             decimal tutar = 0;

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _51PersonelAbstract
 {
@@ -18,9 +14,6 @@ namespace _51PersonelAbstract
 
             TelefonCevapla(s);
             TelefonCevapla(m);
-
-
-
             Console.ReadLine();
         }
 
@@ -28,7 +21,6 @@ namespace _51PersonelAbstract
         {
             per.Eylem();
         }
-
 
         static void TelefonCevapla(ITelefonaBakabilir per)
         {

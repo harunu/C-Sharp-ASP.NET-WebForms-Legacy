@@ -11,11 +11,8 @@ namespace _52ConfigAbstract
         static void Main(string[] args)
         {
             Config k = (new ConfigHelper()).CreateConfigObject();
-
             k.WriteConfig("asda", "asda");
-
             Console.WriteLine(k.ReadConfig("asda"));
-
             Console.ReadLine();
         }
     }

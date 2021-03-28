@@ -40,7 +40,6 @@ namespace _66Generics
             {
                 return dizi[i];
             }
-
         }
     }
 
@@ -79,7 +78,6 @@ namespace _66Generics
             {
                 return dizi[i];
             }
-
         }
     }
 
@@ -115,7 +113,6 @@ namespace _66Generics
             {
                 return dizi[i];
             }
-
         }
     }
 }

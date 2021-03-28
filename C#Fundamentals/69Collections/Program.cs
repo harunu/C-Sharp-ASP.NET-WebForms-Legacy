@@ -21,19 +21,14 @@ namespace _69Collections
         static void Main(string[] args)
         {
             //ArrayList();
-
             //HashTable();
-
             //List();
-
             //Dictionary();
 
             Stack st = new Stack();
 
             st.Push(1);
-
             st.Push(5);
-
             st.Push(6);
 
             var a = st.Pop();
@@ -45,8 +40,6 @@ namespace _69Collections
             ql.Enqueue(9);
 
             var b = ql.Dequeue();
-
-
         }
 
         private static void Dictionary()
@@ -55,7 +48,6 @@ namespace _69Collections
             sozluk.Add(1, new Ogrenci { Adi = "", Soyadi = "" });
 
             var eleman = sozluk[1];
-
             var e = new Ogrenci();
         }
 
@@ -89,18 +81,15 @@ namespace _69Collections
             string kelime = Console.ReadLine();
 
             Console.WriteLine(ht[kelime]);
-
             Console.ReadLine();
         }
 
         private static void ArrayList()
         {
             ArrayList liste = new ArrayList();
-
             liste.Add(1);
             liste.Add(5);
             liste.Add("ahmet");
-
             liste.RemoveAt(2);
 
             int a = (int)liste[0];

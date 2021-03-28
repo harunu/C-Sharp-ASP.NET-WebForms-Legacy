@@ -11,7 +11,6 @@ namespace _59PartialClass
         static void Main(string[] args)
         {
             Personel p = new Personel();
-
         }
     }
 }

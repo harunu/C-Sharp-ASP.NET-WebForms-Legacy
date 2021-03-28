@@ -12,9 +12,6 @@ namespace _38SiniflarTekrar
         {
             //Yaşı 1-120 arasında olsun ve ismi BetülCan olanların yaşı 50 den büyük olamasın.
 
-
-
-
             Ogrenci ogr = new Ogrenci("Ahmet");
             //ogr.Adi = "Ahmet";
             ogr.Soyadi = "Yaşar";

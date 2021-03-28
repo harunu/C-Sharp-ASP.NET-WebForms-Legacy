@@ -13,7 +13,6 @@ namespace _23Fonksiyonlar
             int x = 5;
 
             int sonuc = (((x * x) + 2) - (2 * (x * x + 2))) / 4 * (x * x + 2);
-
             sonuc = (f(x) - 2 * f(x)) / 4 * f(x);
 
             Console.WriteLine(sonuc);
@@ -48,26 +47,19 @@ namespace _23Fonksiyonlar
             {
                 return a + b;
             }
-
             return a * b;
-
-
-
         }
 
         static void EkranaSaatiYazdir()
         {
             Console.WriteLine(DateTime.Now.ToShortTimeString());
-            return;
             Console.WriteLine("Tabi bu saat İstanbul için geçerli");
+            return;
         }
-
-
         static void fonksiyon(int a)
         {
             a = a * 2;
             return;
         }
-
     }
 }

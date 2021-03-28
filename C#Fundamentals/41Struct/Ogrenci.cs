@@ -14,7 +14,6 @@ namespace _41Struct
         public Ogrenci(int yas)
         {
             Yas = yas;
-
         }
     }
 }

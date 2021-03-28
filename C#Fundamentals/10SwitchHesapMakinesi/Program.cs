@@ -38,11 +38,7 @@ namespace _10SwitchHesapMakinesi
                     Console.WriteLine("Yanlış seçimler pişmanlık yaratır.");
                     break;
             }
-
-
             Console.WriteLine("Sonuç : " + sonuc.ToString());
-
-
             Console.ReadLine();
         }
     }

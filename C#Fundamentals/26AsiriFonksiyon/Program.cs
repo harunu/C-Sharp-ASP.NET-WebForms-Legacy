@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _26AsiriFonksiyon
 {
@@ -38,22 +34,16 @@ namespace _26AsiriFonksiyon
         /// <returns></returns>
         static double Topla(int a, int b, bool toplayayimmi)
         {
-
             return a * b;
         }
 
         static void Main(string[] args)
         {
-
-
             string d = "merhaba";
-
             Yaz("kalem");
-
             double b = 50;
             //Yaz(b);
             Yaz(d, 10);
-
             Console.WriteLine(b);
             Console.WriteLine(d);
 

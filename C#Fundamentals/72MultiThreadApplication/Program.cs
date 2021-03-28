@@ -17,7 +17,6 @@ namespace _72MultiThreadApplication
             DateTime baslangic = DateTime.Now;
 
             //ThreadKullanimi();
-
             //Parallel();
 
             WebClient client = new WebClient();
@@ -25,10 +24,6 @@ namespace _72MultiThreadApplication
 
             client.DownloadStringAsync(new Uri("http://tr.wikipedia.org/wiki/T%C3%BCrkiye".ToString()), "http://tr.wikipedia.org/wiki/T%C3%BCrkiye");
             client.Dispose();
-
-
-
-
 
             DateTime bitis = DateTime.Now;
             var sure = (bitis - baslangic).TotalSeconds;
@@ -40,7 +35,6 @@ namespace _72MultiThreadApplication
         static void client_DownloadStringCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
             Console.WriteLine("{0} Adresinden {1} karakter veri {2} thread tarafından indirildi.", e.UserState, e.Result.Length, Thread.CurrentThread.ManagedThreadId);
-
         }
 
         private static void Parallel()
@@ -77,7 +71,6 @@ namespace _72MultiThreadApplication
             string gelenveri = client.DownloadString(url.ToString());
 
             client.Dispose();
-
             Console.WriteLine("{0} Adresinden {1} karakter veri {2} thread tarafından indirildi.", url, gelenveri.Length, Thread.CurrentThread.ManagedThreadId);
         }
 

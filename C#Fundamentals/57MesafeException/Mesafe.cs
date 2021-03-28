@@ -10,8 +10,6 @@ namespace _57MesafeException
     {
         int _km;
         int _m;
-
-
         public int Kilometre
         {
             get
@@ -42,16 +40,12 @@ namespace _57MesafeException
                 _m = value;
             }
         }
-
-
     }
 
     public class MesafeException : ApplicationException
     {
 
-
         string mesafesorun = "";
-
         public string MesafeSorun
         {
             get
@@ -63,7 +57,6 @@ namespace _57MesafeException
                 mesafesorun = value;
             }
         }
-
 
         /// <summary>
         /// Mesafe sınıfında atamalarla ilgili bir hata olduğunda bu exception oluşturulur.

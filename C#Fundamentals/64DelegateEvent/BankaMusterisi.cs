@@ -1,19 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _64DelegateEvent
+﻿namespace _64DelegateEvent
 {
     class BankaMusterisi
     {
 
         public delegate void Temsilci();
-
-
         public event Temsilci BakiyeSifirinAltinaDustu;
-
         private decimal _bakiye;
         public decimal Bakiye
         {
@@ -30,11 +21,9 @@ namespace _64DelegateEvent
                     {
                         BakiyeSifirinAltinaDustu();
                     }
-
                 }
             }
         }
-
 
         private decimal _alacak;
         public decimal Alacak
@@ -48,9 +37,7 @@ namespace _64DelegateEvent
                 _alacak = value;
                 Bakiye = Alacak - Borc;
             }
-
         }
-
 
         private decimal _borc;
         public decimal Borc
@@ -65,6 +52,5 @@ namespace _64DelegateEvent
                 Bakiye = Alacak - Borc;
             }
         }
-
     }
 }

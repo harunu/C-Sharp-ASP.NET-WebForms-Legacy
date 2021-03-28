@@ -23,12 +23,7 @@ namespace _67GenericDelegates
 
             DelFonk<int> e = new DelFonk<int>(EkranaIntYazdir);
             e(5);
-
-
-
         }
-
-
         public static void EkranaIntYazdir(int i)
         {
             Console.WriteLine(i);

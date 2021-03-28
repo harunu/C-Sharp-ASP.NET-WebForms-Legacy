@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _18DizilerGiris
 {
@@ -11,11 +7,8 @@ namespace _18DizilerGiris
         static void Main(string[] args)
         {
             string ogrenci = "";
-
             string[] ogrenciler = new string[5];
-
             string[] gunler = { "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar" };
-
 
             Console.WriteLine("Günün numarasını girin");
             int gunnumarasi = int.Parse(Console.ReadLine());
@@ -33,7 +26,6 @@ namespace _18DizilerGiris
             Console.WriteLine(aylar[aynumarasi - 1]);
 
             Console.ReadLine();
-
         }
     }
 }

@@ -30,8 +30,6 @@ namespace _35Fibonacci
                 return fib(x - 1) + fib(x - 2);
 
             }
-
-
         }
 
 

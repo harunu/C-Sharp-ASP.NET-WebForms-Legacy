@@ -9,12 +9,10 @@ namespace _49Abstract2
     abstract class Canli
     {
         public abstract string Konus();
-
     }
 
     class Kedi : Canli
     {
-
         public override string Konus()
         {
             return "Miyav";

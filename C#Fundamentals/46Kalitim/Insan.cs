@@ -46,27 +46,20 @@ namespace _46Kalitim
         public Ogretmen()
         {
             Console.WriteLine("Öğretmen sınıfının ctor u");
-
         }
 
         public Ogretmen(string adi, string soyadi, Brans brans = Brans.Yazilim)
             : base(adi, soyadi)
         {
-
             EgitmenlikBransi = brans;
         }
 
         new public void AdinNe()
         {
-
             Console.WriteLine("Ben {0} adında bir öğretmenim.", Adi);
-
             base.AdinNe();
         }
-
-
         Brans EgitmenlikBransi { get; set; }
-
     }
 
     class BuroPersoneli : Insan

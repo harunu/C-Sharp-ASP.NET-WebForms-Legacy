@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _12ForSayilar
 {
@@ -13,11 +9,9 @@ namespace _12ForSayilar
 
             int toplam;
             int count = 0;
-
             {
                 toplam = 0;
             }
-
             bool a = (toplam % 5) == 0;
             a = !a;
 
@@ -29,13 +23,9 @@ namespace _12ForSayilar
                     toplam = toplam + i;
                     count++;
                 }
-
-
             }
-
             Console.WriteLine("{1,10} Toplamda {0,20} tane sayi bulundu ve aritmetik toplamarı : {1}", count, toplam);
             Console.ReadLine();
-
         }
     }
 }

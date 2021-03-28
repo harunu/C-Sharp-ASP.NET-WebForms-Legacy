@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _41Struct
 {
@@ -18,9 +14,7 @@ namespace _41Struct
             ogr2.Yas = 15;
 
             Console.WriteLine(ogr1.Yas);
-
             Console.Read();
-
         }
     }
 }

@@ -32,12 +32,8 @@ namespace _50RastgeleSayiPaketi
         protected string SametOzelligi { get; set; }
     }
 
-
-
-
     public class RastGeleSayiGetir
     {
-
         void deneme()
         {
             Console.WriteLine("deneme");
@@ -45,15 +41,8 @@ namespace _50RastgeleSayiPaketi
 
         public int SayiGetir()
         {
-
-
-
-
             RastgeleSayiUret su = new RastgeleSayiUret();
-
             return su.Uret(deneme);
         }
     }
-
-
 }

@@ -31,7 +31,6 @@ namespace _32BileskeFonksiyon
             int s = Topla(-5, -6, true);
             Console.WriteLine(s);
             Console.ReadLine();
-
         }
     }
 }

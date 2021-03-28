@@ -16,7 +16,6 @@ namespace _46Kalitim
     class Kedi : Hayvan
     {
         public string Turu { get; set; }
-
     }
 
     class Balik : Hayvan
@@ -34,10 +33,8 @@ namespace _46Kalitim
         {
             Col, Savan
         }
-
         public Yer YasamAlani { get; set; }
     }
-
 
     class Kaplan : Kedi
     {

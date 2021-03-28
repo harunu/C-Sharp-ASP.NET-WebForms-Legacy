@@ -45,10 +45,7 @@ namespace _54IstisnaDizi
             }
 
             Console.WriteLine("Merhaba Dünya");
-
-
             Console.ReadLine();
-
         }
     }
 }

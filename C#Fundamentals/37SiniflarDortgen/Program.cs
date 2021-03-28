@@ -11,7 +11,6 @@ namespace _37SiniflarDortgen
         static void Main(string[] args)
         {
             //DorgenIsleri();
-
             //DaireIsleri();
 
             Musteri mter = new Musteri();
@@ -25,9 +24,7 @@ namespace _37SiniflarDortgen
         private static void DaireIsleri()
         {
             Daire dr = new Daire();
-
             dr.YariCap = 5;
-
             int a = dr.YariCap;
         }
 
@@ -37,11 +34,9 @@ namespace _37SiniflarDortgen
             //sekil1.En = -10;
             //sekil1.Boy = 20;
             sekil1.EnBoyTanimla(10, 20);
-
             sekil1.Boyu = 6;
 
             Console.WriteLine(sekil1.Boyu);
-
             Console.WriteLine(sekil1.Kosegen());
             Console.WriteLine(sekil1.DortgenAdi);
         }

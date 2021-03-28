@@ -25,7 +25,6 @@ namespace _48OgrenciTakip
                 DBLog dlog = new DBLog();
                 dlog.Logla(LogMesasage);
             }
-
         }
 
         public void KotuLogla(string LogMessage, bool VeriTabaninami = false, bool WebServisinemi = false)
@@ -42,7 +41,6 @@ namespace _48OgrenciTakip
             {
                 Console.WriteLine("Text dosyasına loglandı. Loglanan şey: " + LogMessage);
             }
-
         }
     }
 }

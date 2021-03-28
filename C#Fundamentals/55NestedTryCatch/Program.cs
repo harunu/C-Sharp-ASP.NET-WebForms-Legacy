@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _55NestedTryCatch
 {
@@ -15,7 +11,6 @@ namespace _55NestedTryCatch
 
             try
             {
-
                 try
                 {
                     int l = a / b;
@@ -25,26 +20,21 @@ namespace _55NestedTryCatch
                     try
                     {
                         Exception p = new Exception();
-                        throw p;
                         Console.WriteLine("1 numara çalıştı");
+                        throw p;
                     }
                     catch (IndexOutOfRangeException ab)
                     {
-
                         Console.WriteLine("3 numara çalıştı.");
                     }
-
                 }
-
                 int mk = a / b;
             }
             catch (IndexOutOfRangeException e)
             {
                 Console.WriteLine("2 numara çalıştı");
             }
-
             Console.ReadLine();
-
         }
     }
 }

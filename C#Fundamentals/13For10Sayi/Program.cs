@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _13For10Sayi
 {
@@ -18,8 +14,6 @@ namespace _13For10Sayi
 
             for (int i = 0; i < 10; i++)
             {
-
-
                 Console.Write("{0}. Sayıyı giriniz :", i + 1);
                 int sayi = int.Parse(Console.ReadLine());
                 toplam = toplam + sayi;
@@ -43,11 +37,6 @@ namespace _13For10Sayi
 
             Console.WriteLine("Girdiğiniz sayıların en küçüğü : " + enkucuk);
             Console.ReadLine();
-
-
         }
-
-
-
     }
 }

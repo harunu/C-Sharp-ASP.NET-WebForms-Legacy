@@ -9,11 +9,7 @@ namespace _60Delegates
     class DelegateClass
     {
         public delegate void YazDelege();
-
-
         public YazDelege delege = new YazDelege(Yaz);
-
-
 
         public static void Yaz()
         {

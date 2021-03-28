@@ -11,7 +11,6 @@ namespace _37SiniflarDortgen
         private int En;
         private int Boy;
 
-
         public int Eni
         {
             set
@@ -20,13 +19,11 @@ namespace _37SiniflarDortgen
                 {
                     En = value;
                 }
-
             }
             get
             {
                 return En;
             }
-
         }
 
         public int Boyu
@@ -37,7 +34,6 @@ namespace _37SiniflarDortgen
                 {
                     Boy = value;
                 }
-
             }
             get
             {
@@ -46,7 +42,6 @@ namespace _37SiniflarDortgen
         }
 
         public string DortgenAdi;
-
 
         public void EnBoyTanimla(int En, int Boy)
         {
@@ -76,7 +71,6 @@ namespace _37SiniflarDortgen
             {
                 this.DortgenAdi = "Dörtgen";
             }
-
         }
 
         public double Kosegen()

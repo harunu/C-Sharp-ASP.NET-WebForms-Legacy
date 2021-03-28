@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _07RastgeleSayi
 {
@@ -40,7 +36,6 @@ namespace _07RastgeleSayi
                 else
                 {
                     Console.WriteLine("Bilemedin ama hayallerini küçük tut.");
-
                 }
 
                 tahmin = int.Parse(Console.ReadLine());
@@ -61,12 +56,10 @@ namespace _07RastgeleSayi
                 else
                 {
                     Console.WriteLine("Bilemedin ama hayallerini küçük tut.");
-
                 }
 
                 tahmin = int.Parse(Console.ReadLine());
             }
-
 
             if (tahmin != rastgele)
             {
@@ -77,7 +70,6 @@ namespace _07RastgeleSayi
             {
                 Console.WriteLine("Bilemediniz. Tuttuğum sayı : " + rastgele.ToString());
             }
-
             Console.ReadLine();
         }
     }

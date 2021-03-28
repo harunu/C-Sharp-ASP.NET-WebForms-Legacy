@@ -17,12 +17,10 @@ namespace _70GenericDefault
     }
     public class Sinif
     {
-
     }
 
     public class DegerGetir<T>
     {
-
         public T Getir(T a, int b)
         {
             if (b > 0)

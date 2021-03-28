@@ -15,15 +15,9 @@ namespace _60Delegates
             //NewMethod();
 
             islem i = new islem();
-
             int sonuc = i.IslemYap(Topla);
-
             Console.WriteLine(sonuc);
-
-
             Console.ReadLine();
-
-
         }
 
         public static int Topla(int a, int b)
@@ -34,11 +28,7 @@ namespace _60Delegates
         private static void NewMethod()
         {
             DelegateClass dlg = new DelegateClass();
-
             dlg.delege();
         }
-
-
-
     }
 }

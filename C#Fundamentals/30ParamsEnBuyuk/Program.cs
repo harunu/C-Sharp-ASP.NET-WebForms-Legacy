@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _30ParamsEnBuyuk
 {
@@ -15,9 +11,6 @@ namespace _30ParamsEnBuyuk
 
             if (sayilar.Length < 0)
             {
-
-
-
                 enbuyuk = sayilar[0];
                 enkucuk = sayilar[0];
 
@@ -33,9 +26,7 @@ namespace _30ParamsEnBuyuk
                         enkucuk = sayi;
                     }
                 }
-
             }
-
         }
 
         static void Main(string[] args)

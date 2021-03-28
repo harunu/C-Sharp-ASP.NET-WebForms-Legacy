@@ -13,7 +13,6 @@ namespace _66Generics
             if (first.CompareTo(second) == -1)
             {
                 return "Birincisi küçük";
-
             }
             else if (first.CompareTo(second) == 1)
             {
@@ -24,6 +23,5 @@ namespace _66Generics
                 return "Bunların ikisi zaten eşit";
             }
         }
-
     }
 }

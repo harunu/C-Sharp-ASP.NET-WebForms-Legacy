@@ -12,6 +12,5 @@ namespace _52ConfigAbstract
         {
             return new XmlConfig();
         }
-
     }
 }

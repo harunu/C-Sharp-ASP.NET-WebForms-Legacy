@@ -17,7 +17,6 @@ namespace _65EventOrnek
     {
 
         private string _onek, _ad, _soyad, _ortaad;
-
         public string OnEk
         {
             get
@@ -32,9 +31,7 @@ namespace _65EventOrnek
         }
 
         public event EventHandler PropertyChanged;
-
         public event EventHandler Property20;
-
         private void DegerDegisti(string value)
         {
             if (PropertyChanged != null)

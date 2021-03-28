@@ -44,9 +44,6 @@ namespace _36Siniflar
             }
         }
 
-
-
-
         /// <summary>
         /// Bunu da sırf örnek olsun diye yaptık.
         /// </summary>

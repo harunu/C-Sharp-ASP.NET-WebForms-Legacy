@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _38SiniflarTekrar
 {
@@ -34,10 +30,8 @@ namespace _38SiniflarTekrar
         }
 
 
-
         public string Adi;
         public string Soyadi;
-
         private int Yasi;
 
         public void SetYasi(int value)
@@ -59,7 +53,6 @@ namespace _38SiniflarTekrar
             return Yasi;
         }
 
-
         public int Yas
         {
             get
@@ -79,13 +72,9 @@ namespace _38SiniflarTekrar
                 }
             }
         }
-
-
         public void Konus()
         {
             Console.WriteLine("Ben bir öğrenciyim, adım da {0}", Adi);
         }
-
-
     }
 }

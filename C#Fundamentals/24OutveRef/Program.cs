@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _24OutveRef
 {
@@ -25,8 +21,6 @@ namespace _24OutveRef
         /// <returns>Eğer sayı çift ise true değilse false döner</returns>
         public static bool KaresiKoku(double a, out double ka, out double ko)
         {
-
-
             ka = a * a;
             ko = Math.Sqrt(a);
 
@@ -54,13 +48,9 @@ namespace _24OutveRef
             double top, carp;
 
             ToplaCarp(10, 30, out top, out carp);
-
             double koku, karesi;
-
             bool deger = KaresiKoku(25, out karesi, out koku);
-
             KaresiKoku(10, out karesi, out koku);
-
 
             //double a = double.Parse(Console.ReadLine());
 
@@ -76,13 +66,10 @@ namespace _24OutveRef
                 Console.WriteLine("Böyle kullanıcı olmaz olsun. Yanlış.");
             }
 
-
-
             Console.WriteLine(karesi);
             double sonuc = top + carp;
             Console.WriteLine(sonuc);
             Console.ReadLine();
-
         }
     }
 }

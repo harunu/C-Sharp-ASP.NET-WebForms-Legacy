@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _29Params
 {
@@ -16,11 +12,8 @@ namespace _29Params
             {
                 toplam += item;
             }
-
             return toplam;
         }
-
-
         static void Main(string[] args)
         {
             int t = Topla(1, 2, 3, 4, 5, 6);

@@ -25,22 +25,20 @@ namespace _58TemSoru
             int m = 3;
 
             OrnekSinif o = new OrnekSinif();
-
             //k = o.Artir(k);
             //m = o.Artir(m);
-
         }
 
         int Fonksiyon1(int h)
         {
-            return h--;
             Console.WriteLine("Birinci fonksiyon");
+            return h--;
         }
 
         int Fonksiyon2(int h)
         {
-            return h + 2;
             Console.WriteLine("İkinci fonksiyon");
+            return h + 2;
         }
     }
 }

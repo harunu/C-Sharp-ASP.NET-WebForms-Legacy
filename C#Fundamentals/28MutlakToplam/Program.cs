@@ -1,19 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _28MutlakToplam
 {
     class Program
     {
-
         static int MutlakToplam(int a)
         {
             return Math.Abs(a);
         }
-
 
         static double MutlakToplam(int a, int b)
         {
@@ -28,7 +22,6 @@ namespace _28MutlakToplam
             sayi = sayi + 1;
             Console.WriteLine(sayi);
             Console.ReadLine();
-
         }
     }
 }

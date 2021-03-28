@@ -12,22 +12,15 @@ namespace _63BirdenFazlaFonksiyonIcerenDelegate
         public delegate void YazMetoduDelegate();
 
 
-
-
         static void Main(string[] args)
         {
             YazMetoduDelegate degisken;
-
             degisken = new YazMetoduDelegate(Yaz1);
             degisken += Yaz2;
-
             degisken -= Yaz1;
-
             degisken();
-
             Console.ReadLine();
         }
-
 
         static void Yaz1()
         {

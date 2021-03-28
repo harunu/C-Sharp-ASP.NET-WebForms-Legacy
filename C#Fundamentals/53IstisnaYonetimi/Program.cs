@@ -17,10 +17,7 @@ namespace _53IstisnaYonetimi
                 Console.WriteLine("Bölme işlemi için iki sayı giriniz:");
                 int a = int.Parse(Console.ReadLine());
                 int b = int.Parse(Console.ReadLine());
-
                 sonuc = 0;
-
-
                 try
                 {
                     sonuc = a / b;
@@ -41,11 +38,7 @@ namespace _53IstisnaYonetimi
 
                 }
 
-
             } while (girisbasarili == false);
-
-
-
 
             Console.WriteLine(sonuc);
             Console.ReadLine();

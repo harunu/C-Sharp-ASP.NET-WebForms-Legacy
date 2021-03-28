@@ -33,7 +33,6 @@ namespace OttoFramework
         {
 
         }
-
     }
 
 
@@ -59,5 +58,4 @@ namespace OttoFramework
 
         }
     }
-
 }

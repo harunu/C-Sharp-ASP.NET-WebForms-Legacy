@@ -11,13 +11,10 @@ namespace _68NullableGenerics
 
         static void Main(string[] args)
         {
-
             int a1 = 5;
             int? a = 8;
             Nullable<int> a2 = 8;
-
             int? b;
-
             //int k = b ?? 9;
         }
     }

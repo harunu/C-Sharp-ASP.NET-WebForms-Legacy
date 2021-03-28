@@ -12,11 +12,8 @@ namespace _49Abstract2
         {
             Kedi tekir = new Kedi();
             Konustur(tekir);
-
             Kopek k9 = new Kopek();
-
             Konustur(k9);
-
             Console.ReadLine();
         }
 

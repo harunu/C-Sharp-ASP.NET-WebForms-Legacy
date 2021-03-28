@@ -14,8 +14,6 @@ namespace _71GenericDelegates
         {
             Action<int, int> k = new Action<int, int>(ToplaYazdir);
             k(5, 6);
-
-
         }
 
         static void ToplaYazdir(int a, int b)
@@ -23,7 +21,5 @@ namespace _71GenericDelegates
             Console.WriteLine(a + b);
             Console.ReadLine();
         }
-
-
     }
 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _33BileskeFonksiyon2
 {
@@ -17,7 +13,6 @@ namespace _33BileskeFonksiyon2
         {
             return Math.Pow(x, 1d / 3d);
         }
-
 
         static void Main(string[] args)
         {

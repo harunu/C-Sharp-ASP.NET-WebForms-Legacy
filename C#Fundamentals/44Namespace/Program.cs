@@ -13,15 +13,9 @@ namespace _44Namespace
         {
 
             OttoFramework.ORM.Config a = new OttoFramework.ORM.Config();
-
             OttoFramework.Logging.WriteLog w = new OttoFramework.Logging.WriteLog();
-
             OttoFramework.ORM.TestConnection tc = new TestConnection();
-
             OttoFramework.ORM.Config c = new OttoFramework.ORM.Config();
-
-
-
         }
     }
 }

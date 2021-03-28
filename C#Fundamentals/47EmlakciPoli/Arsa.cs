@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _47EmlakciPoli
+﻿namespace _47EmlakciPoli
 {
     class Arsa
     {
@@ -20,7 +14,6 @@ namespace _47EmlakciPoli
 
     class DortgenArsa : Arsa
     {
-
         public override int AlanHesapla()
         {
             return En * Boy;

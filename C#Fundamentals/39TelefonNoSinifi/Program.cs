@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _39TelefonNoSinifi
 {
@@ -35,20 +31,16 @@ namespace _39TelefonNoSinifi
             }
         }
 
-
         public void AramaYap()
         {
             Console.WriteLine(Adi + " " + Soyadi + " " + Numara + " aranıyor. Lütfen bekleyin");
         }
     }
 
-
-
     class Program
     {
         static void Main(string[] args)
         {
-
             TelefonNumarasi telno = new TelefonNumarasi()
             {
                 Adi = "Ahmet",

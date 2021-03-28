@@ -1,6 +1,0 @@
-C:\Users\Harun\source\repos\MCPD\Operatorler\bin\Debug\Operatorler.exe.config
-C:\Users\Harun\source\repos\MCPD\Operatorler\bin\Debug\Operatorler.exe
-C:\Users\Harun\source\repos\MCPD\Operatorler\bin\Debug\Operatorler.pdb
-C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
-C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\Operatorler.exe
-C:\Users\Harun\source\repos\MCPD\Operatorler\obj\Debug\Operatorler.pdb

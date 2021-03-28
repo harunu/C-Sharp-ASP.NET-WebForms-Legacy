@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _11For
 {
@@ -17,14 +13,11 @@ namespace _11For
                 Console.WriteLine(degisken);
                 degisken += (DateTime.Now.Millisecond % 10);
             }
-
             degisken = 0;
             for (Console.ReadLine(); degisken < 50; degisken = degisken + 6)
             {
                 Console.WriteLine(degisken);
-
             }
-
             Console.WriteLine(strLog);
             Console.ReadLine();
         }

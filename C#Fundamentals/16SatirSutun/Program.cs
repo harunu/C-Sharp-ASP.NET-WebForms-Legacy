@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _16SatirSutun
 {
@@ -16,20 +12,15 @@ namespace _16SatirSutun
 
             for (int i = 0; i < satir; i++)
             {
-
                 for (int k = 0; k < sutun; k++)
                 {
-
                     for (int m = 0; m < 3; m++)
                     {
                         Console.Write("*");
                     }
                 }
-
                 Console.WriteLine();
-
             }
-
             Console.ReadLine();
         }
     }

@@ -12,7 +12,6 @@ namespace _08Switch
         static void Main(string[] args)
         {
             int a = 3;
-
             deyim:
 
             //if (a == 1)
@@ -32,8 +31,6 @@ namespace _08Switch
             //    Console.WriteLine("anın değeri farklı bişey");
             //}
 
-
-
             switch (a)
             {
                 case 1:
@@ -44,24 +41,13 @@ namespace _08Switch
                 default:
                     Console.WriteLine("anın değeri farklı bişey");
                     break;
-
                 case 5:
                     Console.WriteLine("anın değeri 5dir");
                     goto case 1;
-                    string b = "";
-                    b = b + "abc";
-                    break;
-
             }
-
-
             Console.ReadLine();
             goto deyim;
-
         }
     }
-
-
-
 }
 
