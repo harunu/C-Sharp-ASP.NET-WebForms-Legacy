@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\bin\Debug\43Numaralandirmalar.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\bin\Debug\43Numaralandirmalar.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\bin\Debug\43Numaralandirmalar.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\obj\Debug\43Numaralandirmalar.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\obj\Debug\43Numaralandirmalar.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\obj\Debug\43Numaralandirmalar.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\43Numaralandirmalar\obj\Debug\43Numaralandirmalar.pdb

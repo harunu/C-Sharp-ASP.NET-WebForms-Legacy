@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\bin\Debug\57MesafeException.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\bin\Debug\57MesafeException.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\bin\Debug\57MesafeException.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\obj\Debug\57DistanceException.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\obj\Debug\57DistanceException.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\obj\Debug\57MesafeException.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\57DistanceException\obj\Debug\57MesafeException.pdb

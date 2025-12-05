@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\bin\Debug\22DiziSiralama.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\bin\Debug\22DiziSiralama.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\bin\Debug\22DiziSiralama.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\22DiziSiralama\obj\Debug\22DiziSiralama.pdb

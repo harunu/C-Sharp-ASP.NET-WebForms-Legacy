@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\bin\Debug\11For.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\bin\Debug\11For.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\bin\Debug\11For.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\obj\Debug\11For.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\obj\Debug\11For.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\obj\Debug\11For.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\11For\obj\Debug\11For.pdb

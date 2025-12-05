@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\bin\Debug\12ForSayilar.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\bin\Debug\12ForSayilar.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\bin\Debug\12ForSayilar.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\obj\Debug\12ForNumbers.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\obj\Debug\12ForNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\obj\Debug\12ForSayilar.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\12ForNumbers\obj\Debug\12ForSayilar.pdb

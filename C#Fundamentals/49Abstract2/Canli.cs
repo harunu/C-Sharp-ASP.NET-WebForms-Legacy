@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace _49Abstract2
 {
-    abstract class Canli
+    abstract class Living
     {
-        public abstract string Konus();
+        public abstract string Speak();
     }
 
-    class Kedi : Canli
+    class Cat : Living
     {
-        public override string Konus()
+        public override string Speak()
         {
-            return "Miyav";
+            return "Meow";
         }
     }
 
-    class Kopek : Canli
+    class Dog : Living
     {
-        public override string Konus()
+        public override string Speak()
         {
-            return "Hav Hav";
+            return "Woof Woof";
         }
     }
 }

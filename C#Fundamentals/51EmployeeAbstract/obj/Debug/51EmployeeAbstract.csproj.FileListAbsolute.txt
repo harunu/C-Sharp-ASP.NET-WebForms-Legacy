@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\bin\Debug\51PersonelAbstract.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\bin\Debug\51PersonelAbstract.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\bin\Debug\51PersonelAbstract.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\obj\Debug\51EmployeeAbstract.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\obj\Debug\51EmployeeAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\obj\Debug\51PersonelAbstract.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\51EmployeeAbstract\obj\Debug\51PersonelAbstract.pdb

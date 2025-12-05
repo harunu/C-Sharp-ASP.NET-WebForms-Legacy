@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\bin\Debug\53IstisnaYonetimi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\bin\Debug\53IstisnaYonetimi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\bin\Debug\53IstisnaYonetimi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\obj\Debug\53IstisnaYonetimi.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\obj\Debug\53IstisnaYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\obj\Debug\53IstisnaYonetimi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53IstisnaYonetimi\obj\Debug\53IstisnaYonetimi.pdb

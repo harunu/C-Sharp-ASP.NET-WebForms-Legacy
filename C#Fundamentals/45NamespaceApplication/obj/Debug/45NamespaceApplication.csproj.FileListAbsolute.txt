@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\bin\Debug\45NamespaceUygulama.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\bin\Debug\45NamespaceUygulama.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\bin\Debug\45NamespaceUygulama.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\obj\Debug\45NamespaceApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\obj\Debug\45NamespaceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\obj\Debug\45NamespaceUygulama.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\45NamespaceApplication\obj\Debug\45NamespaceUygulama.pdb

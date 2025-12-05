@@ -12,15 +12,15 @@ namespace _66Generics
         {
             if (first.CompareTo(second) == -1)
             {
-                return "Birincisi küçük";
+                return "First is smaller";
             }
             else if (first.CompareTo(second) == 1)
             {
-                return "Birincisi büyük";
+                return "First is larger";
             }
             else
             {
-                return "Bunların ikisi zaten eşit";
+                return "These two are equal";
             }
         }
     }

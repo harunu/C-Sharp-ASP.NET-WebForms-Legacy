@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\bin\Debug\55NestedTryCatch.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\bin\Debug\55NestedTryCatch.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\bin\Debug\55NestedTryCatch.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\obj\Debug\55NestedTryCatch.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\obj\Debug\55NestedTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\obj\Debug\55NestedTryCatch.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\55NestedTryCatch\obj\Debug\55NestedTryCatch.pdb

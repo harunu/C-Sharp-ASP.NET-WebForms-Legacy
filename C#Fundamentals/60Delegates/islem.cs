@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace _60Delegates
 {
-    class islem
+    class Operation
     {
-        public delegate int IslemMetodu(int a, int b);
+        public delegate int OperationMethod(int a, int b);
 
         public int Operand1 { get; set; }
         public int Operand2 { get; set; }
 
 
-        public int IslemYap(IslemMetodu isl)
+        public int PerformOperation(OperationMethod op)
         {
-            return isl(Operand1, Operand2);
+            return op(Operand1, Operand2);
         }
     }
 }

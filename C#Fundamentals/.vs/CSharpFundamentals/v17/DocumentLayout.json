@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAC9508-5F87-4714-846D-16504FE5AB32}|72MultiThreadApplication\\72MultiThreadApplication.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\72multithreadapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAC9508-5F87-4714-846D-16504FE5AB32}|72MultiThreadApplication\\72MultiThreadApplication.csproj|solutionrelative:72multithreadapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D3678-470E-4E99-ACE9-437D82FC8955}|66Generics\\66Generics.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\66generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D3678-470E-4E99-ACE9-437D82FC8955}|66Generics\\66Generics.csproj|solutionrelative:66generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D47ED42-5300-4AD0-A136-AFB4D1BD11EF}|46Inheritance\\46Inheritance.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\46inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D47ED42-5300-4AD0-A136-AFB4D1BD11EF}|46Inheritance\\46Inheritance.csproj|solutionrelative:46inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2055D33C-5961-4F16-ADD4-36748E1AAB08}|47RealEstatePolymorphism\\47RealEstatePolymorphism.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\47realestatepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2055D33C-5961-4F16-ADD4-36748E1AAB08}|47RealEstatePolymorphism\\47RealEstatePolymorphism.csproj|solutionrelative:47realestatepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9E987-8F74-4411-9D58-ECC81BBA774C}|32CompositeFunction\\32CompositeFunction.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\32compositefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9E987-8F74-4411-9D58-ECC81BBA774C}|32CompositeFunction\\32CompositeFunction.csproj|solutionrelative:32compositefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE72EE4-9B05-47A0-B1B7-C801BC025C40}|17DiamondPattern\\17DiamondPattern.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\17diamondpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE72EE4-9B05-47A0-B1B7-C801BC025C40}|17DiamondPattern\\17DiamondPattern.csproj|solutionrelative:17diamondpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A68375-D0F7-4C61-8119-49F6DA1246D8}|02TypeConversion\\02TypeConversion.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\02typeconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A68375-D0F7-4C61-8119-49F6DA1246D8}|02TypeConversion\\02TypeConversion.csproj|solutionrelative:02typeconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892104B0-B2F9-45C2-8CE5-F0E56306AAA2}|01DataTypes\\01DataTypes.csproj|c:\\users\\dell\\riderprojects\\c-sharp-asp.net-webforms-legacy\\c#fundamentals\\01datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892104B0-B2F9-45C2-8CE5-F0E56306AAA2}|01DataTypes\\01DataTypes.csproj|solutionrelative:01datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\72MultiThreadApplication\\Program.cs",
+              "RelativeDocumentMoniker": "72MultiThreadApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\72MultiThreadApplication\\Program.cs",
+              "RelativeToolTip": "72MultiThreadApplication\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:43:57.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\66Generics\\Program.cs",
+              "RelativeDocumentMoniker": "66Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\66Generics\\Program.cs",
+              "RelativeToolTip": "66Generics\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:43:06.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\46Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "46Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\46Inheritance\\Program.cs",
+              "RelativeToolTip": "46Inheritance\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:42:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\47RealEstatePolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "47RealEstatePolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\47RealEstatePolymorphism\\Program.cs",
+              "RelativeToolTip": "47RealEstatePolymorphism\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:42:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\32CompositeFunction\\Program.cs",
+              "RelativeDocumentMoniker": "32CompositeFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\32CompositeFunction\\Program.cs",
+              "RelativeToolTip": "32CompositeFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:42:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\17DiamondPattern\\Program.cs",
+              "RelativeDocumentMoniker": "17DiamondPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\17DiamondPattern\\Program.cs",
+              "RelativeToolTip": "17DiamondPattern\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:41:45.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\02TypeConversion\\Program.cs",
+              "RelativeDocumentMoniker": "02TypeConversion\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\02TypeConversion\\Program.cs",
+              "RelativeToolTip": "02TypeConversion\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:41:12.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\01DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "01DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\RiderProjects\\C-Sharp-ASP.NET-WebForms-Legacy\\C#Fundamentals\\01DataTypes\\Program.cs",
+              "RelativeToolTip": "01DataTypes\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:40:37.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

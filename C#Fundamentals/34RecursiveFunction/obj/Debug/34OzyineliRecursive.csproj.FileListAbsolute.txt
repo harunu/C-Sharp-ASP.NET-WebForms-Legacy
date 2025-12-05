@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\bin\Debug\34OzyineliRecursive.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\bin\Debug\34OzyineliRecursive.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\bin\Debug\34OzyineliRecursive.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\obj\Debug\34OzyineliRecursive.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\obj\Debug\34OzyineliRecursive.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\obj\Debug\34OzyineliRecursive.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\34OzyineliRecursive\obj\Debug\34OzyineliRecursive.pdb

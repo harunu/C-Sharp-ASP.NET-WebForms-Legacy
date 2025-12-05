@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\bin\Debug\25RefFonksiyonu.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\bin\Debug\25RefFonksiyonu.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\bin\Debug\25RefFonksiyonu.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\obj\Debug\25RefFonksiyonu.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\obj\Debug\25RefFonksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\obj\Debug\25RefFonksiyonu.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\25RefFonksiyonu\obj\Debug\25RefFonksiyonu.pdb

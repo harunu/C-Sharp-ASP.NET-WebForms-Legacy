@@ -10,7 +10,7 @@ namespace _59PartialClass
     {
         static void Main(string[] args)
         {
-            Personel p = new Personel();
+            Employee p = new Employee();
         }
     }
 }

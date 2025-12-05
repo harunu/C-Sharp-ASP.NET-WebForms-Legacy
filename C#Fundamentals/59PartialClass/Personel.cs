@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace _59PartialClass
 {
-    partial class Personel
+    partial class Employee
     {
-        public int PersonelNo { get; set; }
-        public string PersonelAdi { get; set; }
-        public int NoGetir()
+        public int EmployeeNo { get; set; }
+        public string EmployeeName { get; set; }
+        public int GetNumber()
         {
             return 1;
         }

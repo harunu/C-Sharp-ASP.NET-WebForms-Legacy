@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\bin\Debug\30ParamsEnBuyuk.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\bin\Debug\30ParamsEnBuyuk.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\bin\Debug\30ParamsEnBuyuk.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\obj\Debug\30ParamsMaximum.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\obj\Debug\30ParamsMaximum.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\obj\Debug\30ParamsEnBuyuk.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\30ParamsMaximum\obj\Debug\30ParamsEnBuyuk.pdb

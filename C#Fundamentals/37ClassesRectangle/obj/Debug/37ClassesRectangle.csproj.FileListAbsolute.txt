@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\bin\Debug\37ClassesRectangle.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\bin\Debug\37ClassesRectangle.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\bin\Debug\37ClassesRectangle.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\obj\Debug\37ClassesRectangle.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\obj\Debug\37ClassesRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\obj\Debug\37ClassesRectangle.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37ClassesRectangle\obj\Debug\37ClassesRectangle.pdb

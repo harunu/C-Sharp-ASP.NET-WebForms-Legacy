@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\bin\Debug\53IstisnaYonetimi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\bin\Debug\53IstisnaYonetimi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\bin\Debug\53IstisnaYonetimi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\obj\Debug\53ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\obj\Debug\53ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\obj\Debug\53IstisnaYonetimi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\53ExceptionHandling\obj\Debug\53IstisnaYonetimi.pdb

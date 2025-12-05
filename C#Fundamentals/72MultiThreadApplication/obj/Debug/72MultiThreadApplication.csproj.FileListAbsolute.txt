@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\bin\Debug\72MultiThreadApplication.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\bin\Debug\72MultiThreadApplication.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\bin\Debug\72MultiThreadApplication.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\obj\Debug\72MultiThreadApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\obj\Debug\72MultiThreadApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\obj\Debug\72MultiThreadApplication.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\72MultiThreadApplication\obj\Debug\72MultiThreadApplication.pdb

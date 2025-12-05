@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,16 +10,16 @@ namespace _49Abstract2
     {
         static void Main(string[] args)
         {
-            Kedi tekir = new Kedi();
-            Konustur(tekir);
-            Kopek k9 = new Kopek();
-            Konustur(k9);
+            Cat tabby = new Cat();
+            MakeSpeak(tabby);
+            Dog k9 = new Dog();
+            MakeSpeak(k9);
             Console.ReadLine();
         }
 
-        public static void Konustur(Canli x)
+        public static void MakeSpeak(Living x)
         {
-            Console.WriteLine(x.Konus());
+            Console.WriteLine(x.Speak());
         }
     }
 }

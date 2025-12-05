@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\bin\Debug\47EmlakciPoli.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\bin\Debug\47EmlakciPoli.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\bin\Debug\47EmlakciPoli.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\obj\Debug\47RealEstatePolymorphism.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\obj\Debug\47RealEstatePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\obj\Debug\47EmlakciPoli.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\47RealEstatePolymorphism\obj\Debug\47EmlakciPoli.pdb

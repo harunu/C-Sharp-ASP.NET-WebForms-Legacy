@@ -6,14 +6,14 @@ namespace _41Struct
     {
         static void Main(string[] args)
         {
-            Ogrenci ogr1 = new Ogrenci(1);
-            ogr1.AdSoyad = "Ahmet XYZ";
-            ogr1.Yas = 12;
+            Student student1 = new Student(1);
+            student1.FullName = "Ahmet XYZ";
+            student1.Age = 12;
 
-            Ogrenci ogr2 = ogr1;
-            ogr2.Yas = 15;
+            Student student2 = student1;
+            student2.Age = 15;
 
-            Console.WriteLine(ogr1.Yas);
+            Console.WriteLine(student1.Age);
             Console.Read();
         }
     }

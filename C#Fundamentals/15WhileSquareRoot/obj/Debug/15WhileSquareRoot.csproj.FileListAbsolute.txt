@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\bin\Debug\15WhileKarakok.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\bin\Debug\15WhileKarakok.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\bin\Debug\15WhileKarakok.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\obj\Debug\15WhileSquareRoot.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\obj\Debug\15WhileSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\obj\Debug\15WhileKarakok.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\15WhileSquareRoot\obj\Debug\15WhileKarakok.pdb

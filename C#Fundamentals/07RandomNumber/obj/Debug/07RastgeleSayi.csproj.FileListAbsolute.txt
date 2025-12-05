@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\bin\Debug\07RastgeleSayi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\bin\Debug\07RastgeleSayi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\bin\Debug\07RastgeleSayi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\obj\Debug\07RastgeleSayi.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\obj\Debug\07RastgeleSayi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\obj\Debug\07RastgeleSayi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\07RastgeleSayi\obj\Debug\07RastgeleSayi.pdb

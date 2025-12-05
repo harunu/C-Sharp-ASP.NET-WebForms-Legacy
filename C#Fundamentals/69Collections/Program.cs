@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 namespace _69Collections
 {
 
-    class Ogrenci
+    class Student
     {
-        public string Adi { get; set; }
-        public string Soyadi { get; set; }
-        public int Numarasi { get; set; }
+        public string Name { get; set; }
+        public string LastName { get; set; }
+        public int Number { get; set; }
     }
 
 
@@ -44,27 +44,27 @@ namespace _69Collections
 
         private static void Dictionary()
         {
-            Dictionary<int, Ogrenci> sozluk = new Dictionary<int, Ogrenci>();
-            sozluk.Add(1, new Ogrenci { Adi = "", Soyadi = "" });
+            Dictionary<int, Student> dictionary = new Dictionary<int, Student>();
+            dictionary.Add(1, new Student { Name = "", LastName = "" });
 
-            var eleman = sozluk[1];
-            var e = new Ogrenci();
+            var element = dictionary[1];
+            var e = new Student();
         }
 
         private static void List()
         {
-            List<Ogrenci> ogrenciler = new List<Ogrenci>();
+            List<Student> students = new List<Student>();
 
-            ogrenciler.Add(new Ogrenci { Adi = "Ahmet1", Soyadi = "Hatayli", Numarasi = 1 });
-            ogrenciler.Add(new Ogrenci { Adi = "Ahmet2", Soyadi = "Hatayli2", Numarasi = 2 });
-            ogrenciler.Add(new Ogrenci { Adi = "Ahmet1", Soyadi = "Hatayli3", Numarasi = 1 });
-            ogrenciler.Add(new Ogrenci { Adi = "Ahmet3", Soyadi = "Hatayli3", Numarasi = 3 });
+            students.Add(new Student { Name = "Ahmet1", LastName = "Hatayli", Number = 1 });
+            students.Add(new Student { Name = "Ahmet2", LastName = "Hatayli2", Number = 2 });
+            students.Add(new Student { Name = "Ahmet1", LastName = "Hatayli3", Number = 1 });
+            students.Add(new Student { Name = "Ahmet3", LastName = "Hatayli3", Number = 3 });
 
-            var secim = from p in ogrenciler where p.Numarasi == 1 select p;
-            //"select * from ogrenciler where ogrencinukasdda = 5";
-            foreach (var item in secim)
+            var selection = from p in students where p.Number == 1 select p;
+            //"select * from students where studentnumber = 5";
+            foreach (var item in selection)
             {
-                Console.WriteLine(item.Adi);
+                Console.WriteLine(item.Name);
             }
 
             Console.ReadLine();
@@ -78,23 +78,23 @@ namespace _69Collections
             ht.Add("rubber", "silgi");
             ht.Add("keyboard", "klavye");
 
-            string kelime = Console.ReadLine();
+            string word = Console.ReadLine();
 
-            Console.WriteLine(ht[kelime]);
+            Console.WriteLine(ht[word]);
             Console.ReadLine();
         }
 
         private static void ArrayList()
         {
-            ArrayList liste = new ArrayList();
-            liste.Add(1);
-            liste.Add(5);
-            liste.Add("ahmet");
-            liste.RemoveAt(2);
+            ArrayList list = new ArrayList();
+            list.Add(1);
+            list.Add(5);
+            list.Add("ahmet");
+            list.RemoveAt(2);
 
-            int a = (int)liste[0];
+            int a = (int)list[0];
 
-            foreach (var item in liste)
+            foreach (var item in list)
             {
                 Console.WriteLine(item);
             }

@@ -1,0 +1,11 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\bin\Debug\48OgrenciTakip.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\bin\Debug\48OgrenciTakip.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\bin\Debug\48OgrenciTakip.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\bin\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\bin\Debug\50RastgeleSayiPaketi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\bin\Debug\50RastgeleSayiPaketi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\obj\Debug\48OgrenciTakip.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\obj\Debug\48OgrenciTakip.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\obj\Debug\48Ogrenc.47BDE8C7.Up2Date
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\obj\Debug\48OgrenciTakip.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48OgrenciTakip\obj\Debug\48OgrenciTakip.pdb

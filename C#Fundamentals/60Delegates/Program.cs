@@ -14,13 +14,13 @@ namespace _60Delegates
         {
             //NewMethod();
 
-            islem i = new islem();
-            int sonuc = i.IslemYap(Topla);
-            Console.WriteLine(sonuc);
+            Operation op = new Operation();
+            int result = op.PerformOperation(Add);
+            Console.WriteLine(result);
             Console.ReadLine();
         }
 
-        public static int Topla(int a, int b)
+        public static int Add(int a, int b)
         {
             return a - b;
         }
@@ -28,7 +28,7 @@ namespace _60Delegates
         private static void NewMethod()
         {
             DelegateClass dlg = new DelegateClass();
-            dlg.delege();
+            dlg.DoDelegate();
         }
     }
 }

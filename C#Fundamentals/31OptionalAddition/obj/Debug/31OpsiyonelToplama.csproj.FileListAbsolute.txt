@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\bin\Debug\31OpsiyonelToplama.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\bin\Debug\31OpsiyonelToplama.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\bin\Debug\31OpsiyonelToplama.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\obj\Debug\31OpsiyonelToplama.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\obj\Debug\31OpsiyonelToplama.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\obj\Debug\31OpsiyonelToplama.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\31OpsiyonelToplama\obj\Debug\31OpsiyonelToplama.pdb

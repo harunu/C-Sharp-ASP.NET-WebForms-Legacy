@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _44Namespace
 {
-    class Ogrenci
+    class Student
     {
     }
 }

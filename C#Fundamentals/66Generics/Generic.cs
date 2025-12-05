@@ -10,108 +10,108 @@ namespace _66Generics
     {
     }
 
-    public class Liste
+    public class CustomList
     {
-        private object[] dizi = new object[10];
-        private int indis = 0;
+        private object[] array = new object[10];
+        private int index = 0;
 
-        public int ekle(object EklenecekEleman)
+        public int Add(object ElementToAdd)
         {
-            if (indis >= dizi.Length)
+            if (index >= array.Length)
             {
-                BoyutAyarla(indis * 2);
+                AdjustSize(index * 2);
             }
 
-            dizi[indis] = EklenecekEleman;
-            indis++;
-            return indis;
+            array[index] = ElementToAdd;
+            index++;
+            return index;
         }
 
-        private void BoyutAyarla(int boyut)
+        private void AdjustSize(int size)
         {
-            object[] yenidizi = new object[boyut];
-            dizi.CopyTo(yenidizi, 0);
-            dizi = yenidizi;
+            object[] newArray = new object[size];
+            array.CopyTo(newArray, 0);
+            array = newArray;
         }
 
         public object this[int i]
         {
             get
             {
-                return dizi[i];
+                return array[i];
             }
         }
     }
 
     /// <summary>
-    /// 
+    ///
     /// </summary>
-    /// <typeparam name="T">Bu listede tutulacak elemanın cinsidir.</typeparam>
-    public class Liste<T>
+    /// <typeparam name="T">This is the type of element to be stored in this list.</typeparam>
+    public class CustomList<T>
     {
-        private T[] dizi = new T[10];
-        private int indis = 0;
+        private T[] array = new T[10];
+        private int index = 0;
 
-        public int ekle(T EklenecekEleman)
+        public int Add(T ElementToAdd)
         {
-            if (indis >= dizi.Length)
+            if (index >= array.Length)
             {
-                BoyutAyarla(indis * 2);
+                AdjustSize(index * 2);
             }
 
-            dizi[indis] = EklenecekEleman;
-            indis++;
+            array[index] = ElementToAdd;
+            index++;
 
-            return indis;
+            return index;
         }
 
-        private void BoyutAyarla(int boyut)
+        private void AdjustSize(int size)
         {
-            T[] yenidizi = new T[boyut];
-            dizi.CopyTo(yenidizi, 0);
-            dizi = yenidizi;
+            T[] newArray = new T[size];
+            array.CopyTo(newArray, 0);
+            array = newArray;
         }
 
         public T this[int i]
         {
             get
             {
-                return dizi[i];
+                return array[i];
             }
         }
     }
 
 
-    public class Liste<T, G>
+    public class CustomList<T, G>
     {
-        private T[] dizi = new T[10];
-        private int indis = 0;
+        private T[] array = new T[10];
+        private int index = 0;
 
-        public int ekle(T EklenecekEleman)
+        public int Add(T ElementToAdd)
         {
-            if (indis >= dizi.Length)
+            if (index >= array.Length)
             {
-                BoyutAyarla(indis * 2);
+                AdjustSize(index * 2);
             }
 
-            dizi[indis] = EklenecekEleman;
-            indis++;
+            array[index] = ElementToAdd;
+            index++;
 
-            return indis;
+            return index;
         }
 
-        private void BoyutAyarla(int boyut)
+        private void AdjustSize(int size)
         {
-            T[] yenidizi = new T[boyut];
-            dizi.CopyTo(yenidizi, 0);
-            dizi = yenidizi;
+            T[] newArray = new T[size];
+            array.CopyTo(newArray, 0);
+            array = newArray;
         }
 
         public T this[int i]
         {
             get
             {
-                return dizi[i];
+                return array[i];
             }
         }
     }

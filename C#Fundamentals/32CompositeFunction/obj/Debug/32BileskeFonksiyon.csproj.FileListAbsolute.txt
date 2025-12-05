@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\bin\Debug\32BileskeFonksiyon.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\bin\Debug\32BileskeFonksiyon.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\bin\Debug\32BileskeFonksiyon.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\obj\Debug\32BileskeFonksiyon.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\obj\Debug\32BileskeFonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\obj\Debug\32BileskeFonksiyon.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\32BileskeFonksiyon\obj\Debug\32BileskeFonksiyon.pdb

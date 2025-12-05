@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\bin\Debug\38SiniflarTekrar.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\bin\Debug\38SiniflarTekrar.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\bin\Debug\38SiniflarTekrar.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\obj\Debug\38SiniflarTekrar.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\obj\Debug\38SiniflarTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\obj\Debug\38SiniflarTekrar.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\38SiniflarTekrar\obj\Debug\38SiniflarTekrar.pdb

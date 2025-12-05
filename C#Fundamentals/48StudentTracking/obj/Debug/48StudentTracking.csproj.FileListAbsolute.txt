@@ -1,0 +1,11 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\bin\Debug\48OgrenciTakip.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\bin\Debug\48OgrenciTakip.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\bin\Debug\48OgrenciTakip.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\bin\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\bin\Debug\50RastgeleSayiPaketi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\bin\Debug\50RastgeleSayiPaketi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\obj\Debug\48StudentTracking.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\obj\Debug\48StudentTracking.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\obj\Debug\48Studen.211CD824.Up2Date
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\obj\Debug\48OgrenciTakip.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\48StudentTracking\obj\Debug\48OgrenciTakip.pdb

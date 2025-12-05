@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\bin\Debug\26AsiriFonksiyon.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\26AsiriFonksiyon\obj\Debug\26AsiriFonksiyon.pdb

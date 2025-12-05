@@ -1,55 +1,55 @@
 ﻿namespace _64DelegateEvent
 {
-    class BankaMusterisi
+    class BankCustomer
     {
 
-        public delegate void Temsilci();
-        public event Temsilci BakiyeSifirinAltinaDustu;
-        private decimal _bakiye;
-        public decimal Bakiye
+        public delegate void Delegate();
+        public event Delegate BalanceDroppedBelowZero;
+        private decimal _balance;
+        public decimal Balance
         {
             get
             {
-                return _bakiye;
+                return _balance;
             }
             private set
             {
-                _bakiye = value;
-                if (_bakiye < 0)
+                _balance = value;
+                if (_balance < 0)
                 {
-                    if (BakiyeSifirinAltinaDustu != null)
+                    if (BalanceDroppedBelowZero != null)
                     {
-                        BakiyeSifirinAltinaDustu();
+                        BalanceDroppedBelowZero();
                     }
                 }
             }
         }
 
-        private decimal _alacak;
-        public decimal Alacak
+        private decimal _credit;
+        public decimal Credit
         {
             get
             {
-                return _alacak;
+                return _credit;
             }
             set
             {
-                _alacak = value;
-                Bakiye = Alacak - Borc;
+                _credit = value;
+                Balance = Credit - Debt;
             }
         }
 
-        private decimal _borc;
-        public decimal Borc
+        private decimal _debt;
+        public decimal Debt
         {
             get
             {
-                return _borc;
+                return _debt;
             }
             set
             {
-                _borc = value;
-                Bakiye = Alacak - Borc;
+                _debt = value;
+                Balance = Credit - Debt;
             }
         }
     }

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,10 +11,10 @@ namespace _66Generics
         static void Main(string[] args)
         {
 
-            //GenOlmayanListe();
-            //GenListe();
+            //NonGenericList();
+            //GenericList();
 
-            //SinifFilitresi();
+            //ClassFilter();
 
             //CompareValues();
 
@@ -29,15 +29,15 @@ namespace _66Generics
 
             Swap<double>(ref p, ref j);
 
-            Console.WriteLine("k değişkeninin değeri : {0}", k);
-            Console.WriteLine("l değişkeninin değeri : {0}", l);
+            Console.WriteLine("Value of k variable: {0}", k);
+            Console.WriteLine("Value of l variable: {0}", l);
 
 
 
             Console.ReadLine();
         }
 
-        private static void CompareValues()
+        private static void CompareValuesMethod()
         {
             CompareValues<int> k = new CompareValues<int>();
 
@@ -47,14 +47,14 @@ namespace _66Generics
             CompareValues<DateTime> d = new CompareValues<DateTime>();
             s = d.Compare(DateTime.Parse("01.01.01"), DateTime.Parse("01.01.01"));
 
-            Kedi kedi1 = new Kedi();
-            kedi1.Yas = 3;
+            Cat cat1 = new Cat();
+            cat1.Age = 3;
 
-            Kopek kopek1 = new Kopek();
-            kopek1.Yas = 4;
+            Dog dog1 = new Dog();
+            dog1.Age = 4;
 
-            CompareValues<Hayvan> h = new CompareValues<Hayvan>();
-            s = h.Compare(kedi1, kopek1);
+            CompareValues<Animal> h = new CompareValues<Animal>();
+            s = h.Compare(cat1, dog1);
 
             Console.WriteLine(s);
         }
@@ -68,48 +68,48 @@ namespace _66Generics
         }
 
 
-        private static void SinifFilitresi()
+        private static void ClassFilter()
         {
-            Konusturucu<Kedi> k = new Konusturucu<Kedi>();
+            Speaker<Cat> k = new Speaker<Cat>();
 
-            Console.WriteLine(k.Konustur());
+            Console.WriteLine(k.MakeSpeak());
 
 
 
             Console.ReadLine();
         }
 
-        private static void GenListe()
+        private static void GenericList()
         {
-            Liste<int> listem = new Liste<int>();
+            CustomList<int> myList = new CustomList<int>();
 
 
 
-            listem.ekle(5);
-            listem.ekle(6);
+            myList.Add(5);
+            myList.Add(6);
 
 
 
-            Console.WriteLine(GenListTopla(listem));
+            Console.WriteLine(GenListSum(myList));
         }
 
-        private static void GenOlmayanListe()
+        private static void NonGenericList()
         {
-            Liste lst = new Liste();
-            lst.ekle(10);
-            lst.ekle("Ahmet");
-            lst.ekle(new System.Data.SqlClient.SqlConnection());
+            CustomList lst = new CustomList();
+            lst.Add(10);
+            lst.Add("Ahmet");
+            lst.Add(new System.Data.SqlClient.SqlConnection());
 
-            Console.WriteLine(ListeTopla(lst));
+            Console.WriteLine(ListSum(lst));
         }
 
 
-        public static int GenListTopla(Liste<int> b)
+        public static int GenListSum(CustomList<int> b)
         {
             return b[0] + b[1];
         }
 
-        public static int ListeTopla(Liste a)
+        public static int ListSum(CustomList a)
         {
             return (int)a[0] + (int)a[1];
         }

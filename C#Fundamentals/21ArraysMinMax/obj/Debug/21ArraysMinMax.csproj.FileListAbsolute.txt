@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\bin\Debug\21DizilerEnBuyukEnKucuk.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\bin\Debug\21DizilerEnBuyukEnKucuk.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\bin\Debug\21DizilerEnBuyukEnKucuk.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\obj\Debug\21ArraysMinMax.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\obj\Debug\21ArraysMinMax.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\obj\Debug\21DizilerEnBuyukEnKucuk.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\21ArraysMinMax\obj\Debug\21DizilerEnBuyukEnKucuk.pdb

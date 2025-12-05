@@ -8,30 +8,30 @@ namespace _64DelegateEvent
 {
     class Program
     {
-        public delegate int BirTemsilci();
-        public delegate void YazTemsilcisi();
+        public delegate int ADelegate();
+        public delegate void WriteDelegate();
 
 
 
         static void Main(string[] args)
         {
-            //BasitKullanim();
-            //BirdenFazlaMetot();
+            //SimpleUsage();
+            //MultipleMethods();
 
 
-            BankaMusterisi musteri = new BankaMusterisi();
+            BankCustomer customer = new BankCustomer();
 
-            musteri.BakiyeSifirinAltinaDustu += new BankaMusterisi.Temsilci(musteri_BakiyeSifirinAltinaDustu);
+            customer.BalanceDroppedBelowZero += new BankCustomer.Delegate(customer_BalanceDroppedBelowZero);
 
-            musteri.Alacak = 90;
-            musteri.Borc = 110;
+            customer.Credit = 90;
+            customer.Debt = 110;
 
-            musteri.Alacak = 150;
-            musteri.Borc = 140;
+            customer.Credit = 150;
+            customer.Debt = 140;
 
 
 
-            musteri.Borc = 160;
+            customer.Debt = 160;
 
 
 
@@ -41,32 +41,32 @@ namespace _64DelegateEvent
 
         }
 
-        static void musteri_BakiyeSifirinAltinaDustu()
+        static void customer_BalanceDroppedBelowZero()
         {
-            Console.WriteLine("bu da event ile");
+            Console.WriteLine("this is also with event");
         }
 
 
-        public static void BakiyeEventHandler()
+        public static void BalanceEventHandler()
         {
-            Console.WriteLine("Bakiye sıfırın altına düştü");
+            Console.WriteLine("Balance dropped below zero");
         }
 
-        private static void BirdenFazlaMetot()
+        private static void MultipleMethods()
         {
-            YazTemsilcisi yt = new YazTemsilcisi(AYaz);
-            yt += BYaz;
-            yt();
+            WriteDelegate wd = new WriteDelegate(WriteA);
+            wd += WriteB;
+            wd();
             Console.ReadLine();
         }
 
-        private static void BasitKullanim()
+        private static void SimpleUsage()
         {
             int a = 5;
-            BirTemsilci b = new BirTemsilci(SayiGetir);
+            ADelegate b = new ADelegate(GetNumber);
 
 
-            //b += SayiGetir;
+            //b += GetNumber;
 
 
             Console.WriteLine(b());
@@ -75,17 +75,17 @@ namespace _64DelegateEvent
 
 
 
-        public static void AYaz()
+        public static void WriteA()
         {
             Console.WriteLine("a");
         }
 
-        public static void BYaz()
+        public static void WriteB()
         {
             Console.WriteLine("b");
         }
 
-        public static int SayiGetir()
+        public static int GetNumber()
         {
             return 8;
         }

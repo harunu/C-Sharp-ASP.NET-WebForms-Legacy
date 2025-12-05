@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _59PartialClass
 {
-    class PersonelMetot
+    class EmployeeMethod
     {
     }
 }

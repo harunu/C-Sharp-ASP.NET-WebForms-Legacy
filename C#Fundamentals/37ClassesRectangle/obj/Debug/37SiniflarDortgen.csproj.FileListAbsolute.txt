@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\bin\Debug\37SiniflarDortgen.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\bin\Debug\37SiniflarDortgen.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\bin\Debug\37SiniflarDortgen.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\obj\Debug\37SiniflarDortgen.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\obj\Debug\37SiniflarDortgen.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\obj\Debug\37SiniflarDortgen.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\37SiniflarDortgen\obj\Debug\37SiniflarDortgen.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\bin\Debug\IFUcgenCesitleri.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\bin\Debug\IFUcgenCesitleri.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\bin\Debug\IFUcgenCesitleri.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\obj\Debug\06IFUcgenCesitleri.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\obj\Debug\06IFUcgenCesitleri.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\obj\Debug\IFUcgenCesitleri.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\06IFUcgenCesitleri\obj\Debug\IFUcgenCesitleri.pdb

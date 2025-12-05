@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace _66Generics
 {
-    public class Hayvan : IComparable
+    public class Animal : IComparable
     {
-        public string Adi { get; set; }
-        public virtual string Konus()
+        public string Name { get; set; }
+        public virtual string Speak()
         {
-            return "Ben" + Adi;
+            return "I am " + Name;
         }
 
-        public int Yas { get; set; }
+        public int Age { get; set; }
 
         public int CompareTo(object obj)
         {
-            if (this.Yas < ((Hayvan)obj).Yas)
+            if (this.Age < ((Animal)obj).Age)
             {
                 return -1;
             }
-            else if (this.Yas == ((Hayvan)obj).Yas)
+            else if (this.Age == ((Animal)obj).Age)
             {
                 return 0;
             }
@@ -33,31 +33,31 @@ namespace _66Generics
         }
     }
 
-    public class Kedi : Hayvan
+    public class Cat : Animal
     {
 
-        public override string Konus()
+        public override string Speak()
         {
-            return "Ben miyav. Adım da " + Adi;
+            return "I meow. My name is " + Name;
         }
     }
 
-    public class Kopek : Hayvan
+    public class Dog : Animal
     {
 
-        public override string Konus()
+        public override string Speak()
         {
-            return "Ben hav hav. Adım da " + Adi;
+            return "I woof woof. My name is " + Name;
         }
     }
 
 
-    public class Konusturucu<T> where T : Hayvan, new()
+    public class Speaker<T> where T : Animal, new()
     {
-        public string Konustur()
+        public string MakeSpeak()
         {
-            T hayvan1 = new T();
-            return hayvan1.Konus();
+            T animal1 = new T();
+            return animal1.Speak();
         }
     }
 }

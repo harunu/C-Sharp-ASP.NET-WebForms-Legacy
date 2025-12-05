@@ -5,18 +5,18 @@ namespace _29Params
     class Program
     {
 
-        static int Topla(params int[] sayilar)
+        static int Add(params int[] numbers)
         {
-            int toplam = 0;
-            foreach (var item in sayilar)
+            int sum = 0;
+            foreach (var item in numbers)
             {
-                toplam += item;
+                sum += item;
             }
-            return toplam;
+            return sum;
         }
         static void Main(string[] args)
         {
-            int t = Topla(1, 2, 3, 4, 5, 6);
+            int t = Add(1, 2, 3, 4, 5, 6);
             Console.WriteLine(t);
             Console.ReadLine();
         }

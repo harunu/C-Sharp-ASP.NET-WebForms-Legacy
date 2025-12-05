@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\bin\Debug\39TelefonNoSinifi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\bin\Debug\39TelefonNoSinifi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\bin\Debug\39TelefonNoSinifi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\obj\Debug\39PhoneNumberClass.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\obj\Debug\39PhoneNumberClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\obj\Debug\39TelefonNoSinifi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\39PhoneNumberClass\obj\Debug\39TelefonNoSinifi.pdb

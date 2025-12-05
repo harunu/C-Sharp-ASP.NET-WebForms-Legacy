@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\bin\Debug\09SwitchKahveci.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\bin\Debug\09SwitchKahveci.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\bin\Debug\09SwitchKahveci.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\obj\Debug\09SwitchCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\obj\Debug\09SwitchCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\obj\Debug\09SwitchKahveci.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\09SwitchCoffeeShop\obj\Debug\09SwitchKahveci.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\bin\Debug\KosulElektrik.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\bin\Debug\KosulElektrik.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\bin\Debug\KosulElektrik.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\obj\Debug\05ElectricBillCondition.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\obj\Debug\05ElectricBillCondition.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\obj\Debug\KosulElektrik.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\05ElectricBillCondition\obj\Debug\KosulElektrik.pdb

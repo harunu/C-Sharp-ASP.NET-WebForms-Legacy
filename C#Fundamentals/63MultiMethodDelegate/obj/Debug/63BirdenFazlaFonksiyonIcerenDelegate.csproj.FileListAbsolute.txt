@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\bin\Debug\63BirdenFazlaFonksiyonIcerenDelegate.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\bin\Debug\63BirdenFazlaFonksiyonIcerenDelegate.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\bin\Debug\63BirdenFazlaFonksiyonIcerenDelegate.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\obj\Debug\63BirdenFazlaFonksiyonIcerenDelegate.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\obj\Debug\63BirdenFazlaFonksiyonIcerenDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\obj\Debug\63BirdenFazlaFonksiyonIcerenDelegate.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\63BirdenFazlaFonksiyonIcerenDelegate\obj\Debug\63BirdenFazlaFonksiyonIcerenDelegate.pdb

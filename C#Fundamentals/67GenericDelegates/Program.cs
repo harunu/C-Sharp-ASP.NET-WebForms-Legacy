@@ -8,35 +8,35 @@ namespace _67GenericDelegates
 {
     class Program
     {
-        public delegate void FonksiyonDel(string s);
+        public delegate void FunctionDelegate(string s);
 
-        public delegate void DelFonk<T>(T k);
+        public delegate void GenericDelegate<T>(T k);
 
         static void Main(string[] args)
         {
-            //FonksiyonDel a = new FonksiyonDel(EkranaYazdir);
-            //a += EkranaCiftYazdir;
-            //a("merhaba");
+            //FunctionDelegate a = new FunctionDelegate(PrintToScreen);
+            //a += PrintToScreenDouble;
+            //a("hello");
 
-            DelFonk<string> k = new DelFonk<string>(EkranaYazdir);
+            GenericDelegate<string> k = new GenericDelegate<string>(PrintToScreen);
             k("kkkkkk");
 
-            DelFonk<int> e = new DelFonk<int>(EkranaIntYazdir);
+            GenericDelegate<int> e = new GenericDelegate<int>(PrintIntToScreen);
             e(5);
         }
-        public static void EkranaIntYazdir(int i)
+        public static void PrintIntToScreen(int i)
         {
             Console.WriteLine(i);
             Console.ReadLine();
         }
 
-        public static void EkranaYazdir(string s)
+        public static void PrintToScreen(string s)
         {
             Console.WriteLine(s);
             Console.ReadLine();
         }
 
-        public static void EkranaCiftYazdir(string s)
+        public static void PrintToScreenDouble(string s)
         {
             Console.WriteLine(s);
             Console.WriteLine(s);

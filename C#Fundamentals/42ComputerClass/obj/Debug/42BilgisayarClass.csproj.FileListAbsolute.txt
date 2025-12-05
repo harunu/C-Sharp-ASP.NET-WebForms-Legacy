@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\bin\Debug\42BilgisayarClass.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\bin\Debug\42BilgisayarClass.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\bin\Debug\42BilgisayarClass.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\42BilgisayarClass\obj\Debug\42BilgisayarClass.pdb

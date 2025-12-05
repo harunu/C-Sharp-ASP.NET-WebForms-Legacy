@@ -1,0 +1,7 @@
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\bin\Debug\50RastgeleSayiPaketi.exe.config
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\bin\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\bin\Debug\50RastgeleSayiPaketi.pdb
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\obj\Debug\50RandomNumberPackage.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\obj\Debug\50RandomNumberPackage.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\obj\Debug\50RastgeleSayiPaketi.exe
+C:\Users\Dell\RiderProjects\C-Sharp-ASP.NET-WebForms-Legacy\C#Fundamentals\50RandomNumberPackage\obj\Debug\50RastgeleSayiPaketi.pdb

@@ -8,12 +8,12 @@ namespace _60Delegates
 {
     class DelegateClass
     {
-        public delegate void YazDelege();
-        public YazDelege delege = new YazDelege(Yaz);
+        public delegate void WriteDelegate();
+        public WriteDelegate DoDelegate = new WriteDelegate(Write);
 
-        public static void Yaz()
+        public static void Write()
         {
-            Console.WriteLine("Merhaba Dünya");
+            Console.WriteLine("Hello World");
         }
     }
 }
